@@ -47,11 +47,11 @@ Secondary Objectives:
 ## Model Results
 
 <p align="center">
-  <img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="55" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
+  <img src="https://i.ibb.co/GFBcMg6/accuracy.png">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/bgRghDK/cm.png width="55" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
+  <img src="https://i.ibb.co/bgRghDK/cm.png">
 </p>
 
 
