@@ -1,4 +1,4 @@
-# Cytology Compendium
+# Cytology Codex
 ## The Digital Tome of Cytology: Deep Learning & Neural Networks Transmutation
 
 <p align="center">
