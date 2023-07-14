@@ -6,6 +6,6 @@
 *.log
 
 # Ignoring specific data files and app folder
-01. IronData/01. GitHub/03. Projects/08_cells_at_work/03_app/
-01. IronData/01. GitHub/03. Projects/08_cells_at_work/01_data/01_salivary_gland/
-01_data/01_salivary_gland/00_epochs/save_at_12.keras
+03_app
+01_data/01_salivary_gland
+01_data/01_salivary_gland/00_epochs
