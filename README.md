@@ -7,9 +7,14 @@
   <small><em>Cytology is the study of cells to detect cancer, it offers a less invasive alternative to biopsy, allowing early diagnosis and treatment initiation.</em></small>
 </p>
 
-1. Salivary gland specimens:
-  1. [Python script I: Data Extracting, Cleaning and Pre-Procesing](https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb)
-  2. [Python script II: Deep Learning Modeling, Validation and Testing](https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb)
+<ol>
+  <li>Salivary gland specimens:
+    <ol>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Procesing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+    </ol>
+  </li>
+</ol>
 
 ## About the Project
 <h2>Primary Objective:</h2>
