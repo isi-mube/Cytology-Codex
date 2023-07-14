@@ -1,5 +1,4 @@
-# The Digital Tome of Cytology
-## Deep Learning & Neural Networks Transmutation
+# The Digital Tome of Cytology ## Deep Learning & Neural Networks Transmutation
 
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/14/b3e0e59628c13d5244260663df610a98.png" width="30%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
