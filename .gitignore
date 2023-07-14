@@ -1,6 +1,6 @@
 # Ignoring checkpoints
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/*
 
 # Ignore log files
 *.log
