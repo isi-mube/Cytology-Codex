@@ -7,6 +7,7 @@
 </p>
 
 <a href="https://ibb.co/3CDkjQC"><img src="https://i.ibb.co/crGxZVr/0-0.png" alt="0-0" border="0"></a>
+<a href="https://ibb.co/3CDkjQC"><img src="https://i.ibb.co/crGxZVr/0-0.png" alt="0-0" border="0"></a>
 
 [Workflow (Trello)](https://trello.com/b/gm7sl9gX/cells-at-work)
 
