@@ -1,16 +1,32 @@
-# Cytological Elysium
+# Cytology Codex
+### The Digital Tome of Cytology I: Deep Learning & Neural Networks Transmutation
 
 <p align="center">
-  <img src="https://i.ibb.co/hcjzNPB/1683548586967.jpg" width="50%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
+  <img src="https://cdn.midjourney.com/bdfeb339-b63a-49be-9444-f6e8e8f69a67/0_3.png" width="26%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
   <br>
-  <small><em>Koilocytes ("empty cells", koilo, κοίλος = empty, cyto = cell), Cytopathic effect caused by the human papillomavirus, koilocytes are squamous epithelial cells that have undergone through a number of structural changes.</em></small>
+  <small><em>Cytology is the study of cells to detect cancer, it offers a less invasive alternative to biopsy, allowing early diagnosis and treatment initiation.</em></small>
 </p>
 
-[Workflow (Trello)](https://trello.com/b/gm7sl9gX/cells-at-work)
+<ol>
+  <li>Salivary gland specimens:
+    <ul>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+    </ul>
+  </li>
+</ol>
 
 ## About the Project
-<p style="text-align: justify;">The objective of this <strong>project</strong> is to do various classifications of cytological image samples from different locations (effusions, breast, bone, thyroid...) and diagnose them as cancer or not, and in some instances doing an specific diagnose.
-</p>
+Primary Objective:
+<ul>
+  <li>Develop a multi-classification model capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
+</ul>
+
+Secondary Objectives:
+<ul>
+  <li>Implement a web-based application using Streamlit that enables users to predict diagnoses based on their image-inputs.</li>
+  <li>Provide informative feedback on the image features using LLM (Large Language Model).</li>
+</ul>
 
 ## Digital Cytology
 * Explain briefly what Cytology is
