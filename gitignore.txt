@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.log
+**/.DS_Store
+._.DS_Store
+**/._.DS_Store
+01. IronData/01. GitHub/03. Projects/08_cells_at_work/01_data/01_salivary_gland*
