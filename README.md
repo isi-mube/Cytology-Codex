@@ -17,12 +17,12 @@
 </ol>
 
 ## About the Project
-<h2>Primary Objective:</h2>
+Primary Objective:
 <ul>
   <li>Develop a multi-classification model capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
 </ul>
 
-<h2>Secondary Objectives:</h2>
+Secondary Objectives:
 <ul>
   <li>Implement a web-based application using Streamlit that enables users to predict diagnoses based on their image-inputs.</li>
   <li>Provide informative feedback on the image features using LLM (Large Language Model).</li>
