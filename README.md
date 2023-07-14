@@ -2,7 +2,7 @@
 ### The Digital Tome of Cytology I: Deep Learning & Neural Networks Transmutation
 
 <p align="center">
-  <img src="https://cdn.midjourney.com/bdfeb339-b63a-49be-9444-f6e8e8f69a67/0_3.png" width="26%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
+  <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="26%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
   <br>
   <small><em>Cytology is the study of cells to detect cancer, it offers a less invasive alternative to biopsy, allowing early diagnosis and treatment initiation.</em></small>
 </p>
@@ -19,7 +19,7 @@
 ## About the Project
 Primary Objective:
 <ul>
-  <li>Develop a multi-classification model capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
+  <li>Develop a multiple multi-classification model capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
 </ul>
 
 Secondary Objectives:
@@ -44,10 +44,9 @@ Secondary Objectives:
   * Effusion dataset: Trying to solve the issue of pre-processing images. Contacted with WellGen, got a code from Computer Vision forum to clean blank spaces and crop the images based on clusters.
 
 
- 
-## Further project development:
-
 ## Model Results
+
+
 
 ## Toolkit:
 
