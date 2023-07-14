@@ -7,11 +7,21 @@
   <small><em>Cytology is the study of cells to detect cancer, it offers a less invasive alternative to biopsy, allowing early diagnosis and treatment initiation.</em></small>
 </p>
 
-[Workflow (Trello)](https://trello.com/b/gm7sl9gX/cells-at-work)
+1. Salivary gland specimens:
+  1. [Python script I: Data Extracting, Cleaning and Pre-Procesing](https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb)
+  2. [Python script II: Deep Learning Modeling, Validation and Testing](https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb)
 
 ## About the Project
-<p style="text-align: justify;">The objective of this <strong>project</strong> is to do various classifications of cytological image samples from different locations (effusions, breast, bone, thyroid...) and diagnose them as cancer or not, and in some instances doing an specific diagnose.
-</p>
+<h2>Primary Objective:</h2>
+<ul>
+  <li>Develop a multi-classification model capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
+</ul>
+
+<h2>Secondary Objectives:</h2>
+<ul>
+  <li>Implement a web-based application using Streamlit that enables users to predict diagnoses based on their image-inputs.</li>
+  <li>Provide informative feedback on the image features using LLM (Large Language Model).</li>
+</ul>
 
 ## Digital Cytology
 * Explain briefly what Cytology is
