@@ -1,10 +1,12 @@
 # Cytological Elysium
 
 <p align="center">
-  <img src="https://i.ibb.co/hcjzNPB/1683548586967.jpg" width="50%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
+  <img src="https://i.ibb.co/crGxZVr/0-0.png" width="50%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
   <br>
   <small><em>Koilocytes ("empty cells", koilo, κοίλος = empty, cyto = cell), Cytopathic effect caused by the human papillomavirus, koilocytes are squamous epithelial cells that have undergone through a number of structural changes.</em></small>
 </p>
+
+<a href="https://ibb.co/3CDkjQC"><img src="https://i.ibb.co/crGxZVr/0-0.png" alt="0-0" border="0"></a>
 
 [Workflow (Trello)](https://trello.com/b/gm7sl9gX/cells-at-work)
 
