@@ -9,10 +9,10 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 25%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 50%;">
+    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 30%;">
   </div>
   <div style="width: 25%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 50%;">
+    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 30%;">
   </div>
 </div>
 
@@ -32,12 +32,12 @@
 
 <p>Despite these efforts, the available data was still limited. To address this challenge, I used data augmentation techniques in Python to generate synthetic images, thereby augmenting the training and validation datasets.</p>
 
+<p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/30eff73003bba45453f247e497ad7f50.png" width="26%">
+</p>
+
 <h2 id="final-notes">Final Notes</h2>
 
 <p>Due to privacy concerns, I did not upload the final image folders to GitHub. Although ethical guidelines within academic cytology societies (of which I am a member) permit the use of individual images for research, education, and promoting cytology, strict protocols are followed in the medical community to ensure confidentiality and anonymity.</p>
-
-<p align="center">
-  <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" width="56%">
-</p>
 
 </div>
