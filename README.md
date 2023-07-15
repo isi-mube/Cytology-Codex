@@ -34,6 +34,12 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 ### Glossary
 <ul>
     <li><strong>Cytology</strong>: Cytology is the study of individual cells to detect abnormalities, including cancer. It provides a less invasive alternative to biopsies, thus enabling early diagnosis and treatment initiation.</li>
+
+<p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/57273049676ed453399c1a2c8d4aced6.jpeg" width="26%">
+  <br>
+  <small><em>George Papanicolaou was a Greek-American cytologist born on May 13, 1883, renowned for developing the Pap smear test, which is extensively used worldwide for the detection and prevention of cervical cancer and other cytological diseases.</em></small>
+</p>
   <br>
     <li><strong>Cytopathology</strong>: Cytopathology is a branch of pathology that studies diseases on a cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, for screening, interpretation, and diagnosis of diverse cell samples.</li>
   <br>
