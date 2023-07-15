@@ -38,8 +38,7 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
     <li><strong>Cytopathology</strong>: Cytopathology is a branch of pathology that studies diseases on a cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, for screening, interpretation, and diagnosis of diverse cell samples.</li>
   <br>
     <li><strong>Digital Pathology</strong>: Digital pathology involves digitizing pathology slides, which allows the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
-  <br>
-</ul>
+  <br></ul>
 
 ### Challenges in Digital Cytology
 Unlike histology where cells maintain their original three-dimensional structure in a thin and flat layer, cytology samples aren't one-dimensional, generally comprising smears or suspensions of unique configurations of individual cells that no longer hold their original formation. This additional third dimension makes diagnosis more complex and time-consuming as it requires mastery of pattern recognition. Furthermore, digital exploration in cytology is relatively uncharted due to the challenges involved in digitizing three-dimensional images and the resulting increased storage requirements.
