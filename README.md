@@ -31,9 +31,17 @@ Secondary Objectives:
 This project started on 08/07/2023 and was completed within 3 weeks, presented on 27/07/2023 for Ironhack´s final bootcamp project.
 
 ## Cytology, Cytopathology & Digital Pathology
-* Explain briefly what Cytology is
-* Explain briefly what Digital Pathology is
-* Explain briefly problems that Cytology faces
+<ul>
+    <li><strong>Cytology</strong>: Cytology is the study of individual cells to detect abnormalities, including cancer. It provides a less invasive alternative to biopsies, thus enabling early diagnosis and treatment initiation.</li>
+    <li><strong>Digital Pathology</strong>: Digital pathology involves digitizing pathology slides, which allows the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
+    <li><strong>Challenges in Cytology</strong>: Unlike tissue pathology, where cells maintain their original three-dimensional structure, cytology specimens are usually smears or suspensions of individual cells. This loss of the third dimension information can complicate diagnosis. Additionally, cytology is often less explored in the digital domain due to the complexities associated with digitizing three-dimensional images and the increased storage demands.</li>
+    <li><strong>Cytopathology</strong>: Cytopathology is a branch of pathology that studies diseases on a cellular level. The role of a cytopathologist often extends to include interpretation and diagnosis based on these cellular studies.</li>
+    <li><strong>Cytotechnologists</strong>: Cytotechnologists are key members of the cytology team. They are skilled professionals who screen cytologic preparations and often play a significant role in the initial interpretation of the specimens. The responsibilities of cytotechnologists may vary depending on the healthcare setting.</li>
+</ul>
+
+<p>In my professional experience, I've performed tasks that span screening, interpretation, and diagnosis of various cytology specimens, quality assurance, and teaching. This broad range of activities has provided me with a comprehensive understanding of both the potential and challenges inherent in cytology and cytopathology.</p>
+
+<p>This project aims to bridge the gap between cytology and digital pathology. We believe that machine and deep learning models can be effectively applied to cytology data, thus highlighting the value of cytology professionals and promoting the field.</p>
 
 ## Project development:
 **Start:** 08/07/23 - **Deadline:** 29/07/23
