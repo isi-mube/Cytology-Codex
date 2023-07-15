@@ -9,10 +9,14 @@
 
 <div style="display: flex; justify-content: center;">
   <div style="width: 20%; padding: 1%;">
+<p align="center">
     <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 50%;">
+</p>
   </div>
   <div style="width: 20%; padding: 1%;">
+<p align="center">
     <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 50%;">
+</p>
   </div>
 </div>
 
