@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="26%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
   <br>
-  <small><em>Cytology is the study of cells to detect cancer, it offers a less invasive alternative to biopsy, allowing early diagnosis and treatment initiation.</em></small>
+  <small><em>Cytology is a branch of biology that studies diseases at the cellular level using non-invasive medical tests for early cancer detection.</em></small>
 </p>
 
 <ol>
@@ -30,21 +30,19 @@ Secondary Objectives:
 
 This project started on 08/07/2023 and was completed within 3 weeks, presented on 27/07/2023 for Ironhack´s final bootcamp project.
 
-## Digital Cytology
+## Cytology, Cytopathology & Digital Pathology
 * Explain briefly what Cytology is
 * Explain briefly what Digital Pathology is
 * Explain briefly problems that Cytology faces
 
 ## Project development:
-**Start:** 08/07/23
-**Deadline:** 29/07/23
-* 08/07/23: Data collection and defining the challenge. Also, run a first quick model with the efussion dataset.
-* 09/07/23:
-  * SQL: Cleaned the Excel file. Selected some thyroid samples to scan.
-* 10/07/23:
-  * README: Files updated for main, data and python scripts folders.
-  * Effusion dataset: Trying to solve the issue of pre-processing images. Contacted with WellGen, got a code from Computer Vision forum to clean blank spaces and crop the images based on clusters.
+**Start:** 08/07/23 - **Deadline:** 29/07/23
 
+* 08/07/23: Data collection and defining the challenge. Also, run a first quick model with an effusion dataset.
+* 09/07/23: Cleaned an excel file with Cytology data from my work.
+* 10/07/23: Created basic structure of folders, README in GitHub. Struggling with my Data gathering.
+* 11-13/07/23: Found new sources of Data, cleaned the code for multiclassification, ran a first script using salivary gland specimens.
+* 15/07/23: Documenting the process in the README files, getting in touch with fellow colleagues (cytopathologists, cytotechnologists, professors) to get new insights and cross-validation of the images.
 
 ## Results
 
