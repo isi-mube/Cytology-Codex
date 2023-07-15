@@ -51,7 +51,7 @@ Secondary Objectives:
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/bgRghDK/cm.png">
+  <img src="https://i.ibb.co/bgRghDK/cm.png" width="87%">
 </p>
 
 
