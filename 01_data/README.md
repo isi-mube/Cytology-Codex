@@ -7,14 +7,15 @@
 
 <p>The original idea was to use my own data, given my direct access to it as a professional in the field. However, the process of manually selecting and capturing the images using my phone camera and microscope proved to be time-consuming and would have necessitated extensive preprocessing. This was not the best approach for an ambitious three-week project.</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="width: 25%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 30%;">
+<div style="display: flex; justify-content: center;">
+  <div style="width: 20%; padding: 1%;">
+    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 50%;">
   </div>
-  <div style="width: 25%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 30%;">
+  <div style="width: 20%; padding: 1%;">
+    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 50%;">
   </div>
 </div>
+
 
 <h2 id="second-idea">Second Idea</h2>
 
@@ -33,7 +34,7 @@
 <p>Despite these efforts, the available data was still limited. To address this challenge, I used data augmentation techniques in Python to generate synthetic images, thereby augmenting the training and validation datasets.</p>
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/15/30eff73003bba45453f247e497ad7f50.png" width="26%">
+  <img src="https://imgtr.ee/images/2023/07/15/30eff73003bba45453f247e497ad7f50.png" width="36%">
 </p>
 
 <h2 id="final-notes">Final Notes</h2>
