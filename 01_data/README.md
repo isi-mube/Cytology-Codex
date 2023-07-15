@@ -10,11 +10,9 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 50%; padding: 1%;">
     <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 25%;">
-    <img src="https://imgtr.ee/images/2023/07/15/e82550559368b91212a36d4fbe613b79.jpeg" style="width: 30%;">
   </div>
   <div style="width: 50%; padding: 1%;">
     <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 30%;">
-    <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" style="width: 23%;">
   </div>
 </div>
 
@@ -24,7 +22,7 @@
 <p>Another option I considered was using images from book atlases and other resources I had accumulated over my years of practice. While these images provided a potential solution, their limited variety and quantity posed challenges for training a robust model.</p>
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" width="56%">
+  <img src="https://imgtr.ee/images/2023/07/15/c135b4d7a3bb85f798846883f3729175.jpeg" width="56%">
 </p>
 
 <h2 id="final-idea">Final Idea</h2>
