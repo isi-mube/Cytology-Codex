@@ -43,11 +43,12 @@ x = layers.Dense(256, activation='relu')(x)
 x = layers.Dense(5, activation='softmax')(x)
 
 return keras.Model(inputs, x)
-
-Conv2 Layer: Convolutional layer of the network, where the image pre-processing happens and the kernel filter the image on the whole image, detecting lines and edges.
-MaxPooling2D Layer: AKA downsampling, reducing the dimensionality of the input, making the network more precise and focusing it on the more important features, and also, preventing overfitting.
-Flatten Layer: It prepares the multi-dimensional input for the last fully and dense layer.
-Dense Layer: It takes the Flatten inputs through a series of neurons. First 512, then 256. It's where all previous neurons are fully connected, the 'softmax' activation it's used in multi-classification models, in this case, '5' corresponds to the number of target classes.
-    
 </pre>
+* Conv2 Layer: Convolutional layer of the network, where the image pre-processing happens and the kernel filter the image on the whole image, detecting lines and edges. `32`, `64`, `128` refers to the umber of filters used, starting from a small number.
+* MaxPooling2D Layer: It performs downsampling operations, and also spatial dimensions (width, height), reducing overfitting and the computional cost by decreasing the spatial dimensionality. This process goes along with the convolutional layer, with different kernel sizes, to learn more complex patterns from Data.
+* Flatten Layer: It prepares the multi-dimensional input for the last fully and dense layer, converting the 2D matrix to a 1D vector.
+* Dense Layer: It takes the Flatten inputs through a series of neurons. First 512, then 256. It's where all previous neurons are fully connected, the 'softmax' activation it's used in multi-classification models, in this case, '5' corresponds to the number of target classes.
+* 
+
+In short, this CNN model learns hierarchical representations of the images, from low-level structures (lines, edges, textures) in the initial layers to more complex high-level features such as patterns and objects.
 </div>
