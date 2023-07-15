@@ -19,16 +19,16 @@
 ## About the Project
 Primary Objective:
 <ul>
-  <li>Develop a multiple multi-classification model capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
+  <li>Develop a multiple multi-classification models capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
 </ul>
 
 Secondary Objectives:
 <ul>
   <li>Implement a web-based application using Streamlit that enables users to predict diagnoses based on their image-inputs.</li>
-  <li>Provide informative feedback on the image features using LLM (Large Language Model).</li>
+  <li>Provide informative feedback on the image features using ChatGPT API.</li>
 </ul>
 
-This project started at 08/07/2023 and was completed within 3 weeks, presented in 27/07/2023 for Ironhack´s final bootcamp project.
+This project started on 08/07/2023 and was completed within 3 weeks, presented on 27/07/2023 for Ironhack´s final bootcamp project.
 
 ## Digital Cytology
 * Explain briefly what Cytology is
