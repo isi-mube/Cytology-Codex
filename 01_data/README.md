@@ -1,6 +1,10 @@
 # 💻 About the Data
 
-Gathering and extracting enough Cytology image Data for the project was a challenging step by itself, due to the lack of publicly available images, slides and online microscopes. The original idea was to get my own Data since I have direct access to it as I work in that field.
+Gathering and extracting enough Cytology image Data for the project was a challenging step by itself, due to the lack of publicly available images, slides and online microscopes.
+
+## First Idea
+
+The original idea was to get my own Data since I have direct access to it as I work in that field. 
 
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" width="56%">
@@ -13,15 +17,20 @@ Gathering and extracting enough Cytology image Data for the project was a challe
 
   <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/b200531defee67bbcc01c3e6f99448a5.png" width="56%">
-    
-  <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" alt="27944d522ee57766cab7f761b43445ec.jpeg" border="0">
 
-  <img src="https://imgtr.ee/images/2023/07/15/e82550559368b91212a36d4fbe613b79.jpeg" alt="e82550559368b91212a36d4fbe613b79.jpeg" border="0">
   
-  <img src="https://imgtr.ee/images/2023/07/15/b200531defee67bbcc01c3e6f99448a5.png" alt="b200531defee67bbcc01c3e6f99448a5.png" border="0">
-Obtaining a suitable dataset for my GitHub project posed a significant challenge due to the scarcity of publicly available cytology images and the lack of online microscopes with slide data. While I had direct access to cytology data through my work in the field, manually capturing images using my own microscope and an archive of samples would have been a time-consuming process requiring extensive preprocessing.
+  <p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" width="56%">
+
+The limitations of that approach were basically that manually selecting and capturing the images using my phone camera and my own microscope would have been a time-consuming process requiring also an extensive preprocessing. Not the best approach for a 3 week ambitious project.
+
+## Second Idea
 
 Another option I considered was using images from book atlases and other resources accumulated over my years of practice. Although these images provided a potential solution, the limited variety and quantity posed limitations for training a robust model.
+
+## Final Idea
+
+Ultimat
 
 Ultimately, a breakthrough came through my friends and colleagues. One of them, who is also a professor, granted me access to an online microscope that housed a diverse range of scan slides featuring different organs with various diagnoses. Conducting thorough research, I identified areas where I could gather more data—slides with plentiful samples and a wide array of diagnoses to choose from.
 
