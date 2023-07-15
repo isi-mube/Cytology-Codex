@@ -41,8 +41,9 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 </ul>
 
 ### Challenges in Digital Cytology
-Unlike histology where cells maintain their original three-dimensional structure in a thin and flat layer, cytology samples aren't one-dimensional, generally comprising smears or suspensions of unique configurations of individual cells that no longer hold their original formation. This additional third dimension makes diagnosis more complex and time-consuming as it requires mastery of pattern recognition. Furthermore, digital exploration in cytology is relatively uncharted due to the challenges involved in digitizing three-dimensional images and the resulting increased storage requirements.
+Unlike histology where cells maintain their original three-dimensional structure in a thin and flat layer, cytology samples aren't one-dimensional, generally comprising smears or suspensions of unique configurations of individual cells that no longer hold their original formation. This additional third dimension makes diagnosis more complex and time-consuming as it requires mastery of pattern recognition. Furthermore, digital exploration in cytology is relatively new due to the challenges involved in digitizing three-dimensional images and the resulting increased storage requirements.
 
+### Personal involvement 
 My dual role as Cytotechnologist and Cytology Professor has involved screening, and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research. Using my field knowledge and expertise, my project also aims to build a nexus between Cytology and Digitalisation. I am convinced that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
 
 ## Project development:
