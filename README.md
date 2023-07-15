@@ -47,7 +47,7 @@ Secondary Objectives:
 ## Model Results
 
 <p align="center">
-  <img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="53%">
+  <img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="54%">
 </p>
 
 <p align="center">
