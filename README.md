@@ -40,7 +40,6 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
   <br>
   <small><em>George Papanicolaou was a Greek-American cytologist born on May 13, 1883, renowned for developing the Pap smear test, which is extensively used worldwide for the detection and prevention of cervical cancer and other cytological diseases.</em></small>
 </p>
-  <br>
     <li><strong>Cytopathology</strong>: Cytopathology is a branch of pathology that studies diseases on a cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, for screening, interpretation, and diagnosis of diverse cell samples.</li>
   <br>
     <li><strong>Digital Pathology</strong>: Digital pathology involves digitizing pathology slides, which allows the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
@@ -48,7 +47,6 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
   <br>
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/71885b1f872430c7138417e262f7a659.jpeg" width="26%">
-  <br>
   <small><em>Digital Pathology includes not only the digitalization of histology and cytology slides but also the automatization, technology, and tools of all preanalytical, analytical and post analytical processes in a pathology department.</em></small>
 </p>
   <br>
@@ -61,7 +59,6 @@ Unlike histology where cells maintain their original three-dimensional structure
   <br>
   <small><em>Thyroid, papillar carcinoma. Same tumor, different methods and different features. On the left, histology (1-dimensional thin layer), and on the right, cytology (three-dimensional in suspension cells).</em></small>
 </p>
-  <br>
 
 ### Personal involvement 
 As a Cytotechnologist, Cytology Professor, and Digital Pathology Specialist my work has involved screening, and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research. Using my field knowledge and expertise, my project also aims to build a nexus between Cytology and Digitalisation. I am convinced that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
