@@ -1,16 +1,15 @@
 # 💻 About the Data
 
-## Binary Classification
-* Effusions I: The effusions dataset was provided by [WellGen Medical](https://www.wellgen.info/en-home) a Digital Pathology company that offers Cytology solutions (scanning and AI algorithms). All samples are stained with Papanicolau.
-* Effusions II: The following dataset was found in [Kaggle](https://www.kaggle.com/datasets/cmacus/body-cavity-fluid-cytology-images) and contains an imbalance data of body cavity fluid cytology (effusions), all samples are Leishman stained.
-* Blood Smears: The following dataset was found in [Kaggle](https://www.kaggle.com/datasets/cmacus/malaria-parasite-in-blood-smears) and contains various cytological images of blood smears with malaria and no-malaria.
+Obtaining a suitable dataset for my GitHub project posed a significant challenge due to the scarcity of publicly available cytology images and the lack of online microscopes with slide data. While I had direct access to cytology data through my work in the field, manually capturing images using my own microscope and an archive of samples would have been a time-consuming process requiring extensive preprocessing.
 
-## Multiclassification
-* Thyroid: The thyroid dataset was provided by [SYNLAB](https://www.synlab.com/lab/645). An excel file was provided along with different cytological samples for educational/academic purposes.
+Another option I considered was using images from book atlases and other resources accumulated over my years of practice. Although these images provided a potential solution, the limited variety and quantity posed limitations for training a robust model.
 
-## Segmentation
+Ultimately, a breakthrough came through my friends and colleagues. One of them, who is also a professor, granted me access to an online microscope that housed a diverse range of scan slides featuring different organs with various diagnoses. Conducting thorough research, I identified areas where I could gather more data—slides with plentiful samples and a wide array of diagnoses to choose from.
 
+The initial focus of my data collection efforts centered around salivary gland images, given the repository's richness in slides and diagnostic diversity. Within this domain, I manually selected fields of interest, employing the criteria used in Cytopathology to diagnose conditions. For instance, in the case of Warthin tumor cytology, identifying features such as a "dirty background" with lymphocytes and oncocytic cells was crucial. Hence, I captured images specifically highlighting these distinctive characteristics, among others, to ensure a comprehensive and informative dataset.
 
-# Bibliography
-* Matek, C., Krappe, S., Münzenmayer, C., Haferlach, T., & Marr, C. (2021). An Expert-Annotated Dataset of Bone Marrow Cytology in Hematologic Malignancies [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.AXH3-T579
-* Matek, C., Krappe, S., Münzenmayer, C., Haferlach, T., and Marr, C. (2021). Highly accurate differentiation of bone marrow cell morphologies using deep neural networks on a large image dataset. https://doi.org/10.1182/blood.2020010568
+Even with these efforts, the available data was still limited. To address this challenge, I employed data augmentation techniques in Python to generate synthetic images, augmenting the dataset's size and diversity.
+
+It's important to note that, due to privacy concerns, I refrained from uploading the image folders to GitHub. While the ethical guidelines within medical and academic cytology societies permit the use of patient data for research purposes, strict protocols are followed to ensure the confidentiality and anonymity of individuals involved. Respecting these principles, I ensured that the uploaded dataset remained dissociated from any identifiable information.
+
+By creatively navigating these obstacles and employing a combination of manual selection, data augmentation, and access to an online microscope, I was able to curate a comprehensive dataset suitable for training my model.
