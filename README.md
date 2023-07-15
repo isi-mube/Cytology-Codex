@@ -28,6 +28,8 @@ Secondary Objectives:
   <li>Provide informative feedback on the image features using LLM (Large Language Model).</li>
 </ul>
 
+This project started at 08/07/2023 and was completed within 3 weeks, presented in 27/07/2023 for Ironhack´s final bootcamp project.
+
 ## Digital Cytology
 * Explain briefly what Cytology is
 * Explain briefly what Digital Pathology is
@@ -44,7 +46,7 @@ Secondary Objectives:
   * Effusion dataset: Trying to solve the issue of pre-processing images. Contacted with WellGen, got a code from Computer Vision forum to clean blank spaces and crop the images based on clusters.
 
 
-## Model Results
+## Results
 
 <p align="center">
   <img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="54%">
@@ -53,6 +55,8 @@ Secondary Objectives:
 <p align="center">
   <img src="https://i.ibb.co/bgRghDK/cm.png" width="55%">
 </p>
+
+## Conclusions
 
 
 ## Toolkit:
