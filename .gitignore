@@ -5,10 +5,11 @@
 # Ignore log files
 *.log
 
-# Ignoring specific data files and app folder
+# Ignoring specific folders, data files and the app folder
 03_app
 01_data/01_salivary_gland
 01_data/01_salivary_gland/00_epochs
 .ipynb_checkpoints/test-checkpoint.ipynb
 00_entropy/.ipynb_checkpoints/test-checkpoint.ipynb
 01_data/.ipynb_checkpoints/README-checkpoint.md
+00_entropy
