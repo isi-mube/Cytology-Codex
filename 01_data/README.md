@@ -9,10 +9,10 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 25%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 100%;">
+    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 50%;">
   </div>
   <div style="width: 25%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 100%;">
+    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 50%;">
   </div>
 </div>
 
