@@ -30,7 +30,8 @@ Secondary Objectives:
 
 This project started on 08/07/2023 and was completed within 3 weeks, presented on 27/07/2023 for Ironhack´s final bootcamp project.
 
-## Cytology Glossary
+## About Cytology
+### Glossary
 <ul>
     <li><strong>Cytology</strong>: Cytology is the study of individual cells to detect abnormalities, including cancer. It provides a less invasive alternative to biopsies, thus enabling early diagnosis and treatment initiation.</li>
   <br>
