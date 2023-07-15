@@ -9,12 +9,12 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 50%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 50%;">
-    <img src="https://imgtr.ee/images/2023/07/15/e82550559368b91212a36d4fbe613b79.jpeg" style="width: 50%;">
+    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 30%;">
+    <img src="https://imgtr.ee/images/2023/07/15/e82550559368b91212a36d4fbe613b79.jpeg" style="width: 30%;">
   </div>
   <div style="width: 50%; padding: 1%;">
-    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 50%;">
-    <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" style="width: 50%;">
+    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 30%;">
+    <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" style="width: 30%;">
   </div>
 </div>
 
