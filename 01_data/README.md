@@ -1,5 +1,10 @@
 # 💻 About the Data
 
+Gathering and extracting enough Cytology image Data for the project was a challenging step by itself, due to the lack of publicly available images, slides and online microscopes. The original idea was to get my own Data since I have direct access to it as I work in that field.
+
+<p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" width="56%">
+  
 Obtaining a suitable dataset for my GitHub project posed a significant challenge due to the scarcity of publicly available cytology images and the lack of online microscopes with slide data. While I had direct access to cytology data through my work in the field, manually capturing images using my own microscope and an archive of samples would have been a time-consuming process requiring extensive preprocessing.
 
 Another option I considered was using images from book atlases and other resources accumulated over my years of practice. Although these images provided a potential solution, the limited variety and quantity posed limitations for training a robust model.
