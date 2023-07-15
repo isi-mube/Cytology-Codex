@@ -34,7 +34,7 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 ### Glossary
 <ul>
     <li><strong>Cytology</strong>: Cytology is the study of individual cells to detect abnormalities, including cancer. It provides a less invasive alternative to biopsies, thus enabling early diagnosis and treatment initiation.</li>
-
+  <br>
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/57273049676ed453399c1a2c8d4aced6.jpeg" width="26%">
   <br>
