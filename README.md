@@ -45,6 +45,13 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
   <br>
     <li><strong>Digital Pathology</strong>: Digital pathology involves digitizing pathology slides, which allows the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
 </ul>
+  <br>
+<p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/71885b1f872430c7138417e262f7a659.jpeg" width="26%">
+  <br>
+  <small><em>Digital Pathology includes not only the digitalization of histology and cytology slides but also the automatization, technology, and tools of all preanalytical, analytical and post analytical processes in a pathology department.</em></small>
+</p>
+  <br>
 
 ### Challenges in Digital Cytology
 Unlike histology where cells maintain their original three-dimensional structure in a thin and flat layer, cytology samples aren't one-dimensional, generally comprising smears or suspensions of unique configurations of individual cells that no longer hold their original formation. This additional third dimension makes diagnosis more complex and time-consuming as it requires mastery of pattern recognition. Furthermore, digital exploration in cytology is relatively new due to the challenges involved in digitizing three-dimensional images and the resulting increased storage requirements.
