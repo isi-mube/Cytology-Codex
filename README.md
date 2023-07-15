@@ -55,9 +55,17 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 
 ### Challenges in Digital Cytology
 Unlike histology where cells maintain their original three-dimensional structure in a thin and flat layer, cytology samples aren't one-dimensional, generally comprising smears or suspensions of unique configurations of individual cells that no longer hold their original formation. This additional third dimension makes diagnosis more complex and time-consuming as it requires mastery of pattern recognition. Furthermore, digital exploration in cytology is relatively new due to the challenges involved in digitizing three-dimensional images and the resulting increased storage requirements.
+  <br>
+<p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/ecaf6fb5b117693590759e95118a8150.jpeg" width="26%">
+  <br>
+  <small><em>Thyroid, papillar carcinoma. Same tumor, different methods and different features. On the left, histology (1-dimensional thin layer), and on the right, cytology (three-dimensional in suspension cells).</em></small>
+</p>
+  <br>
+<img src="https://imgtr.ee/images/2023/07/15/ecaf6fb5b117693590759e95118a8150.jpeg" alt="ecaf6fb5b117693590759e95118a8150.jpeg" border="0">
 
 ### Personal involvement 
-My dual role as Cytotechnologist and Cytology Professor has involved screening, and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research. Using my field knowledge and expertise, my project also aims to build a nexus between Cytology and Digitalisation. I am convinced that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
+As a Cytotechnologist, Cytology Professor, and Digital Pathology Specialist my work has involved screening, and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research. Using my field knowledge and expertise, my project also aims to build a nexus between Cytology and Digitalisation. I am convinced that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
 
 ## Project development:
 **Start:** 08/07/23 - **Deadline:** 29/07/23
