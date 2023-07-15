@@ -14,7 +14,7 @@
   </div>
   <div style="width: 50%; padding: 1%;">
     <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 30%;">
-    <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" style="width: 30%;">
+    <img src="https://imgtr.ee/images/2023/07/15/0cfa2aaac027431bdd0abc6878bd3343.png" style="width: 20%;">
   </div>
 </div>
 
