@@ -8,9 +8,17 @@ Gathering and extracting enough Cytology image Data for the project was a challe
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/e82550559368b91212a36d4fbe613b79.jpeg" width="56%">
 
+  <p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" width="56%">
+
+  <p align="center">
+  <img src="https://imgtr.ee/images/2023/07/15/b200531defee67bbcc01c3e6f99448a5.png" width="56%">
+    
+  <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" alt="27944d522ee57766cab7f761b43445ec.jpeg" border="0">
+
   <img src="https://imgtr.ee/images/2023/07/15/e82550559368b91212a36d4fbe613b79.jpeg" alt="e82550559368b91212a36d4fbe613b79.jpeg" border="0">
   
-  
+  <img src="https://imgtr.ee/images/2023/07/15/b200531defee67bbcc01c3e6f99448a5.png" alt="b200531defee67bbcc01c3e6f99448a5.png" border="0">
 Obtaining a suitable dataset for my GitHub project posed a significant challenge due to the scarcity of publicly available cytology images and the lack of online microscopes with slide data. While I had direct access to cytology data through my work in the field, manually capturing images using my own microscope and an archive of samples would have been a time-consuming process requiring extensive preprocessing.
 
 Another option I considered was using images from book atlases and other resources accumulated over my years of practice. Although these images provided a potential solution, the limited variety and quantity posed limitations for training a robust model.
