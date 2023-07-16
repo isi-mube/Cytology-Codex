@@ -100,15 +100,15 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 
 ## Acknowledgments:
 
-* [Sabina](https://www.linkedin.com/in/sabina-firtala/): [Source](https://github.com/sabinagio/do-you-see-what-AI-see) of inspiration, your knowledge on Computer Vision sparked my curiosity.
-* [Xisca](https://www.linkedin.com/in/xisca-sorell-llull-39128949/): Endless source of wisdom and inspiration; your belief in me pushed my boundaries, driving me beyond what I believed was possible to accomplish.
+* [Xisca](https://www.linkedin.com/in/xisca-sorell-llull-39128949/): Endless source of wisdom and inspiration. Your faith in me pushed my boundaries, driving me beyond what I believed was possible to accomplish.
+* [Sabina](https://www.linkedin.com/in/sabina-firtala/): Your [knowledge ](https://github.com/sabinagio/do-you-see-what-AI-see) on Computer Vision sparked my curiosity and interest in Data.
 * [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/): You do know your metrics ! :) Also, your emotional support during the boot camp was invaluable.
 * [Camille](https://www.linkedin.com/in/camillecoeurjoly/): Excepcional teacher. Your sharp eyes and Python tricks helped my learning process.
-* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): A true friend.  Your ideas and resources in Cytology have been incredibly helpful.
-* My classmates :) Specially:
-  *  [Nicole](https://github.com/tzeyeenliew) for your trust, cheerful nature, and empathy during rough times.
-  *  [Nati](https://github.com/natnaelfe), I just needed a friend like you. Eternal thanks for your moral support.
-  *  [Luis](https://github.com/lj90pot) Luisi forever. Your calm approach and tech-savviness were a constant motivation.
+* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): A true friend.  Your ideas and resources in Cytology have been immensely helpful.
+* My classmates. Specially:
+  *  [Nicole](https://github.com/tzeyeenliew), your trust, cheerfulness, and empathy made difficult times bearable.
+  *  [Nati](https://github.com/natnaelfe), a friend like no other. Your moral support has been a godsend.
+  *  [Luis](https://github.com/lj90pot) Luisi forever. Your calm approach and tech-savviness were a constant motivation to excel (pun intended).
 
 ## Toolkit:
 
