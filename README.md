@@ -62,11 +62,6 @@ Unlike histology where cells maintain their original three-dimensional structure
 
 ### Personal involvement 
 As a Cytotechnologist, Cytology Professor, and Digital Pathology Specialist my work has involved screening, and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research. Using my field knowledge and expertise, my project also aims to build a nexus between Cytology and Digitalisation. I am convinced that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
-<p align="center">
-  <img src="https://imgtr.ee/images/2023/07/15/4b38d0a578ec2af3b016709bf74657de.jpeg" width="22%">
-  <br>
-</p>
-  <br>
 
 ## Project development:
 **Start:** 08/07/23 - **Deadline:** 29/07/23
