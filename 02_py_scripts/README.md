@@ -42,8 +42,8 @@ x = layers.Dense(512, activation='relu')(x)
 x = layers.Dense(256, activation='relu')(x)
 x = layers.Dense(5, activation='softmax')(x)
 
-return keras.Model(inputs, x)
-</pre>
+return keras.Model(inputs, x)</pre>
+
 * Conv2 Layer: Convolutional layer of the network, where the image pre-processing happens and the kernel filter the image on the whole image, detecting lines and edges. `32`, `64`, `128` refers to the umber of filters used, starting from a small number. `Relu` activation adds non-linearity to the model, to learn more complex patterns.
 * MaxPooling2D Layer: It performs downsampling operations, and also spatial dimensions (width, height), reducing overfitting and the computional cost by decreasing the spatial dimensionality. This process goes along with the convolutional layer, with different kernel sizes, to learn more complex patterns from Data.
 * Flatten Layer: It prepares the multi-dimensional input for the last fully and dense layer, converting the 2D matrix to a 1D vector.
