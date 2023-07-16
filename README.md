@@ -17,6 +17,8 @@
 </ol>
 
 ## About the Project
+This project started on `08/07/2023` and was completed within 3 weeks, presented on `27/07/2023` for Ironhack´s final bootcamp project. 
+
 Primary Objective:
 <ul>
   <li>Develop multiple-multiclass classification models capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
@@ -28,8 +30,7 @@ Secondary Objectives:
   <li>Provide informative feedback on the image features using ChatGPT API.</li>
 </ul>
 
-* This project started on `08/07/2023` and was completed within 3 weeks, presented on `27/07/2023` for Ironhack´s final bootcamp project. 
-* Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells-at-work)
+Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells-at-work)
 
 ## About Cytology
 ### Glossary
