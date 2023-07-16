@@ -93,7 +93,7 @@ For specific metric results, please refer to the specific Python folder:
 <ol>
     <li>The convolutional neural network (CNN) model demonstrated remarkable accuracy in the multiple-multiclass classification of cytology images, with a performance metric of approximately 90-95% accuracy around the 20-25 epoch mark.</li>
     <li>The challenge of the lack of available Data was addressed through the synthetic generation of new cytology images, an approach known as data augmentation. This technique was crucial for minimizing false negatives across all diagnostic categories.</li>
-    <li>This model has the potential for real-world implementation, opening the door for the creation of AI algorithms using single-layer cytological slide scans or even phone-captured images, thereby challenging the need for full slide scanning, a process that is both costly and time-consuming.</li>
+    <li>This model has the potential for real-world implementation, opening the door for the creation of AI algorithms using single-layer cytological slide scans or even phone-captured images, thereby challenging the need for full slide multi-layer scanning with z-stack, a process that is both costly and time-consuming.</li>
 </ol>
 
 ## Acknowledgments:
