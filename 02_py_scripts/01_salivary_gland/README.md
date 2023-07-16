@@ -2,8 +2,8 @@
 
 <table width="100%">
   <tr>
-    <td align="center"><img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="40%"></td>
-    <td align="center"><img src="https://i.ibb.co/bgRghDK/cm.png" width="40%"></td>
+    <td align="center"><img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="50%"></td>
+    <td align="center"><img src="https://i.ibb.co/bgRghDK/cm.png" width="50%"></td>
   </tr>
 </table>
 
