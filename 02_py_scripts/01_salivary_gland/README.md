@@ -1,4 +1,4 @@
-# 🐍 Results
+# 📈 Results
 
 <table width="100%">
   <tr>
