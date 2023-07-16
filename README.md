@@ -35,7 +35,7 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 ### Glossary
 <p align="justify">Let´s define first a few key terms:</p>
 <ul>
-    <li><strong>Cytology</strong>, is the study of individual cells to detect abnormalities, including cancer. Also, it´s a type of sample method that provides a less invasive alternative to biopsies, enabling early diagnosis and treatment initiation, and improving health outcomes. 
+    <li><strong>Cytology:</strong> This is the study of individual cells to detect abnormalities, including cancer. It's a type of sample method that provides a less invasive alternative to biopsies, enabling early diagnosis and treatment initiation, and improving health outcomes.</li>
   <br>
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/57273049676ed453399c1a2c8d4aced6.jpeg" width="26%">
@@ -43,14 +43,14 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
   <small><em>George Papanicolaou was a Greek-American cytologist born on May 13, 1883, renowned for developing the Pap smear test, which is extensively used worldwide for the detection and prevention of cervical cancer and other cytological diseases.</em></small>
 </p>
 <br>
-  <li><strong>Cytopathology</strong>, is a specialized field, nested in pathology, that looks at diseases on the cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, focusing on screening, interpretation, and diagnosis of diverse cell samples.</li>
+    <li><strong>Cytopathology:</strong> A specialized field, nested in pathology, that looks at diseases on the cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, focusing on screening, interpretation, and diagnosis of diverse cell samples.</li>
   <br>
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/16/bf64282f087b813d37fcf9799edd6144.png" width="26%">
   <br>
     <small><em>A beautiful group of endocervical cells viewed from the side in a "picket-fence" palisade pattern, with basal nuclei and columnar cytoplasm. Gynecological sample; PAP stained; 40X augmentation.</em></small>
   </p>
-    <li><strong>Digital Pathology</strong>: Digital pathology involves digitizing pathology slides, which allows the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
+    <li><strong>Digital Pathology:</strong> This involves digitizing pathology slides, allowing the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
 </ul>
   <br>
 <p align="center">
@@ -68,11 +68,14 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
   <small><em>Thyroid, papillar carcinoma. Same tumor, different methods and different features. On the left, histology (1-dimensional thin layer), and on the right, cytology (three-dimensional in suspension cells).</em></small>
 </p>
 
-### Personal involvement 
-My past 5 years of work have been all around Cytology; it involved screening and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research, including Digital Pathology publications. 
+### Personal Journey and Perspectives on Cytology
+<p align="justify">My past 5 years of work have been all around Cytology; it involved screening and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research, including Digital Pathology publications.</p>
 
-**Are the size files an issue?**
-One of the reasons for the no-digitalization of Cytological samples is the final size. As I said, there is a major difference between Histology and Cytology, which is the cells not being flat but three-dimensional, which typically requires a Z-stack scanning of the slides to get all focal points. I am **convinced** that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
+<p align="justify">One significant barrier to the digitalization of Cytological samples is the final size. As previously explained, the cells in Cytology are not flat, unlike in Histology, but three-dimensional. This complexity typically necessitates a Z-stack scanning of the slides to capture all focal points, resulting in large digital files.</p>
+
+<p align="justify">Despite this challenge, I firmly believe that Machine Learning and Deep Learning models can be implemented in Cytology images, bypassing the need for complete scan, hence one of the most challenging aspects of the digitalization process</p>
+
+Despite this challenge, I firmly believe that Machine Learning and Deep Learning models have the potentia
 
 ## Project development:
 **Start:** 08/07/23 - **Deadline:** 29/07/23
