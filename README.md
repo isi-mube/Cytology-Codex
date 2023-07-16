@@ -8,7 +8,7 @@
 </p>
 
 <ol>
-  <li>Chapter I: [Salivary gland](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland) specimens:
+  <li>Chapter I: <a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland'>Salivary gland</a>specimens:
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
