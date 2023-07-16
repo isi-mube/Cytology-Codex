@@ -1,13 +1,13 @@
 # 🐍 Results
 
-<p align="center">
-  <img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="54%">
-</p>
+<table width="100%">
+  <tr>
+    <td align="center"><img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="40%"></td>
+    <td align="center"><img src="https://i.ibb.co/bgRghDK/cm.png" width="40%"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://i.ibb.co/bgRghDK/cm.png" width="55%">
-</p>
-
+<div style="width: fit-content; margin: auto;">
 <table>
   <tr>
     <th></th>
@@ -73,3 +73,4 @@
     <td>777.000000</td>
   </tr>
 </table>
+</p>
