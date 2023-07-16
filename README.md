@@ -48,7 +48,7 @@ Let´s define first a few key terms:
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/16/bf64282f087b813d37fcf9799edd6144.png" width="26%">
   <br>
-    <small><em>A beautiful group of endocervical cells viewed from the side in a "picket-fence" palisade pattern, with basal nuclei and columnar cytoplasm, from a gynecological sample. PAP stained, 40X augmentation..</em></small>
+    <small><em>A beautiful group of endocervical cells viewed from the side in a "picket-fence" palisade pattern, with basal nuclei and columnar cytoplasm. Gynecological sample; PAP stained; 40X augmentation.</em></small>
   </p>
     <li><strong>Digital Pathology</strong>: Digital pathology involves digitizing pathology slides, which allows the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
 </ul>
