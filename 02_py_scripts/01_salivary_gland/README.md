@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td align="center"><img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="100%"></td>
-    <td align="center"><img src="https://i.ibb.co/bgRghDK/cm.png" width="100%"></td>
+    <td align="center"><img src="https://i.ibb.co/bgRghDK/cm.png" width="80%"></td>
   </tr>
 </table>
 
