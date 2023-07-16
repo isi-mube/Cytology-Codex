@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
   <br>
-  <small><em>Behold, the Cytology Tome, unveiling cellular wonders and misteries.</em></small>
+  <small><em>Behold, the Digital Tome of Cytology, revealing  microscopic marvels and cellular untold tales.</em></small>
 </p>
 
 <ol>
