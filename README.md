@@ -2,13 +2,13 @@
 ### The Digital Tome of Cytology I: Deep Learning & Neural Networks Transmutation
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="26%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
+  <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
   <br>
   <small><em>Cytology is a branch of biology that studies diseases at the cellular level using non-invasive medical tests for early cancer detection.</em></small>
 </p>
 
 <ol>
-  <li>Salivary gland specimens:
+  <li>Chapter I: Salivary gland specimens:
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
