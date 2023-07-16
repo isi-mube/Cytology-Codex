@@ -77,6 +77,7 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 
 ## Project development:
 **Start:** `08/07/23` - **Deadline:** `29/07/23`
+[Trello](https://trello.com/b/gm7sl9gX/cells-at-work)
 
 * `08/07/23`: Data collection and defining the challenge. Also, run a first quick model with an effusion dataset.
 * `09/07/23`: Cleaned an excel file with Cytology data from my work.
