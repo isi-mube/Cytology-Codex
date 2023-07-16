@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
   <br>
-  <small><em>Cytology is a branch of biology that studies diseases at the cellular level using non-invasive medical tests for early cancer detection.</em></small>
+  <small><em>Behold, the Cytology Tome, unveiling cellular wonders and misteries.</em></small>
 </p>
 
 <ol>
