@@ -73,7 +73,7 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 
 <p align="justify">One significant barrier to the digitalization of Cytological samples is the final size. As previously explained, the cells in Cytology are not flat, unlike in Histology, but three-dimensional. This complexity typically necessitates a Z-stack scanning of the slides to capture all focal points, resulting in large digital files.</p>
 
-<p align="justify">Despite this challenge, I firmly believe that Machine Learning and Deep Learning models can be implemented in Cytology images, bypassing the need for complete scan, hence one of the most challenging aspects of the digitalization process</p>
+<p align="justify">Despite this challenge, I firmly believe that Machine Learning and Deep Learning models can be implemented in Cytology images, bypassing the need for complete scan, hence one of the most challenging aspects of the digitalization process.</p>
 
 ## Project development:
 **Start:** `08/07/23` - **Deadline:** `29/07/23`
