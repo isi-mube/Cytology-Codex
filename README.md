@@ -2,7 +2,7 @@
 ### The Digital Tome of Cytology I: Deep Learning & Neural Networks Transmutation
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%" alt="Hubble Beholds a Big, Beautiful Blue Galaxy">
+  <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%">
   <br>
   <small><em>Behold, the Digital Tome of Cytology, revealing  microscopic marvels and cellular untold tales.</em></small>
 </p>
@@ -19,7 +19,7 @@
 ## About the Project
 Primary Objective:
 <ul>
-  <li>Develop a multiple multi-classification models capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
+  <li>Develop multiple-multiclass classification models capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
 </ul>
 
 Secondary Objectives:
@@ -89,10 +89,12 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 
 For specific metric results, please refer to the specific Python folder:
   * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
-     
-Using my [previous knowledge](https://github.com/isi-mube/cosmic-compendium) on Computer Vision, I could re-use and adapt my previous CNN to this multiple-multiclassification problem, around 20-25 epochs the accuracy in all models was around 90-95%.
-
-One of the challenges I faced during this project was gathering the Data
+    
+<ol>
+    <li>TThe convolutional neural network (CNN) model demonstrated remarkable accuracy in the multiple-multiclass classification of cytology images, with a performance metric of approximately 90-95% accuracy around the 20-25 epoch mark.</li>
+    <li>The challenge of the lack of available Data was addressed through the synthetic generation of new cytology images, an approach known as data augmentation. This technique was crucial for minimizing false negatives across all diagnostic categories.</li>
+    <li>This model has the potential for real-world implementation, opening the door for the creation of AI algorithms using single-layer cytological slide scans or even phone-captured images, thereby challenging the need for full slide scanning, a process that is both costly and time-consuming.</li>
+</ol>
 
 ## Acknowledgments:
 
