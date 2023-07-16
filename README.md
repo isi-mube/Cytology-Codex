@@ -75,16 +75,14 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 
 <p align="justify">Despite this challenge, I firmly believe that Machine Learning and Deep Learning models can be implemented in Cytology images, bypassing the need for complete scan, hence one of the most challenging aspects of the digitalization process</p>
 
-Despite this challenge, I firmly believe that Machine Learning and Deep Learning models have the potentia
-
 ## Project development:
-**Start:** 08/07/23 - **Deadline:** 29/07/23
+**Start:** `08/07/23` - **Deadline:** `29/07/23`
 
-* 08/07/23: Data collection and defining the challenge. Also, run a first quick model with an effusion dataset.
-* 09/07/23: Cleaned an excel file with Cytology data from my work.
-* 10/07/23: Created basic structure of folders, README in GitHub. Struggling with my Data gathering.
-* 11-13/07/23: Found new sources of Data, cleaned the code for multiclassification, ran a first script using salivary gland specimens.
-* 15/07/23: Documenting the process in the README files, getting in touch with fellow colleagues (cytopathologists, cytotechnologists, professors) to get new insights and cross-validation of the images.
+* `08/07/23`: Data collection and defining the challenge. Also, run a first quick model with an effusion dataset.
+* `09/07/23`: Cleaned an excel file with Cytology data from my work.
+* `10/07/23`: Created basic structure of folders, README in GitHub. Struggling with my Data gathering.
+* `11-13/07/23`: Found new sources of Data, cleaned the code for multiclassification, ran a first script using salivary gland specimens.
+* `15/07/23`: Documenting the process in the README files, getting in touch with fellow colleagues (cytopathologists, cytotechnologists, professors) to get new insights and cross-validation the images.
 
 ## Results
 
