@@ -90,7 +90,9 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 For specific metric results, please refer to the specific Python folder:
   * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
      
-Using my [previous knowledge](https://github.com/isi-mube/cosmic-compendium) on Computer Vision, I could re-use and adapt my previous CNN to this multiclassification problem, after 2
+Using my [previous knowledge](https://github.com/isi-mube/cosmic-compendium) on Computer Vision, I could re-use and adapt my previous CNN to this multiple-multiclassification problem, around 20-25 epochs the accuracy in all models was around 90-95%.
+
+One of the challenges I faced during this project was gathering the Data
 
 ## Acknowledgments:
 
