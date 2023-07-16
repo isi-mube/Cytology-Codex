@@ -33,7 +33,7 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 
 ## About Cytology
 ### Glossary
-Let´s define first a few key terms:
+<p align="justify">Let´s define first a few key terms:</p>
 <ul>
     <li><strong>Cytology</strong>, is the study of individual cells to detect abnormalities, including cancer. Also, it´s a type of sample method that provides a less invasive alternative to biopsies, enabling early diagnosis and treatment initiation, and improving health outcomes. 
   <br>
@@ -60,7 +60,7 @@ Let´s define first a few key terms:
 </p>
 
 ### Challenges in Digital Cytology
-In digital cytology, we face a unique challenge. Unlike in histology, where cells maintain their flat structure (like a single layer of bricks on a wall), cytology samples can be more like a pile of bricks dumped out of a bucket. These cells in suspension no longer hold their original formation, which makes diagnosis more complex and time-consuming because it requires a mastery of pattern recognition. Furthermore, due to these additional dimensions, digitizing these cell images requires even more storage space.
+<p align="justify">In digital cytology, we face a unique challenge. Unlike in histology, where cells maintain their flat structure (like a single layer of bricks on a wall), cytology samples can be more like a pile of bricks dumped out of a bucket. These cells in suspension no longer hold their original formation, making diagnosis more complex and time-consuming because it requires mastery of pattern recognition. Furthermore, due to these additional dimensions, digitizing these cell images requires even more storage space.</p>
   <br>
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/ecaf6fb5b117693590759e95118a8150.jpeg" width="26%">
