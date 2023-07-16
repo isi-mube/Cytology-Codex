@@ -69,14 +69,10 @@ In digital cytology, we face a unique challenge. Unlike in histology, where cell
 </p>
 
 ### Personal involvement 
+My past 5 years of work have been all around Cytology; it involved screening and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research, including Digital Pathology publications. 
 
-As a Cytotechnologist, Cytology Professor, and Digital Pathology Specialist my work has involved screening, and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research. Using my field knowledge and expertise, my project also aims to build a nexus between Cytology and Digitalisation. I am convinced that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
-
-As a Cytotechnologist, Cytology Professor, and Digital Pathology Specialist, my work involves everything from screening and diagnosing cytology specimens to quality control, teaching, and research. My project aims to bridge the gap between Cytology and Digitalisation.
-
-I believe that Machine Learning and Deep Learning models - essentially sophisticated computer programs that can learn from data - can be successfully implemented in Cytology. These techniques can help analyze cell data more efficiently and effectively, eliminating the need for a complete scan.
-
-In conclusion, cytology, cytopathology, and digital pathology are all integral to understanding a computer vision project related to cytological image predictions using Deep Learning and Keras. These concepts provide the foundation for us to build models that can assist in diagnosing diseases, ultimately making healthcare more efficient and effective.
+**Are the size files an issue?**
+One of the reasons for the no-digitalization of Cytological samples is the final size. As I said, there is a major difference between Histology and Cytology, which is the cells not being flat but three-dimensional, which typically requires a Z-stack scanning of the slides to get all focal points. I am **convinced** that Machine Learning and Deep Learning models can be successfully implemented in Cytology for Data Analysis, bypassing the need for a complete scan.
 
 ## Project development:
 **Start:** 08/07/23 - **Deadline:** 29/07/23
