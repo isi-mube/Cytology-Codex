@@ -108,8 +108,8 @@ Using my [previous knowledge](https://github.com/isi-mube/cosmic-compendium) on 
   *  [Nicole](https://github.com/tzeyeenliew), your trust, cheerfulness, and empathy made difficult times bearable.
   *  [Nati](https://github.com/natnaelfe), a friend like no other. Your moral support has been a godsend.
   *  [Luis](https://github.com/lj90pot), I mean... Luisi forever. Your calm approach and tech-savviness were a constant motivation to excel (pun intended).
-  *  [Evangelos](https://github.com/Evangelos-Z)... time is an illusion that helps things make sense, so we're always living in the present tense[...] will happen, happening, happened[...]
-  *  
+  *  [Evangelos](https://github.com/Evangelos-Z)... time is an illusion that helps things make sense, so we're always living in the present tense...
+
 ## Toolkit:
 
 * **JupyterLab**: Enviorment for Python scripts and managing files.
