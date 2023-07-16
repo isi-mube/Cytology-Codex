@@ -85,7 +85,7 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 * `15/07/23`: Documenting the process in the README files, getting in touch with fellow colleagues (cytopathologists, cytotechnologists, professors) to get new insights and cross-validation the images.
 * `16/07/23`: MVP checked. The first model runs with salivary gland specimens. Also, developed a basic Streamlit app for visualization.
   
-## Results
+## Results and Conclusions
 
 <p align="center">
   <img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="54%">
@@ -95,8 +95,7 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
   <img src="https://i.ibb.co/bgRghDK/cm.png" width="55%">
 </p>
 
-## Conclusions
-
+Using my [previous knowledge](https://github.com/isi-mube/cosmic-compendium) on Computer Vision, I could re-use and adapt my previous CNN to this multiclassification problem, after 2
 
 ## Acknowledgments:
 
@@ -108,8 +107,9 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 * My classmates. Specially:
   *  [Nicole](https://github.com/tzeyeenliew), your trust, cheerfulness, and empathy made difficult times bearable.
   *  [Nati](https://github.com/natnaelfe), a friend like no other. Your moral support has been a godsend.
-  *  [Luis](https://github.com/lj90pot) Luisi forever. Your calm approach and tech-savviness were a constant motivation to excel (pun intended).
-
+  *  [Luis](https://github.com/lj90pot), I mean... Luisi forever. Your calm approach and tech-savviness were a constant motivation to excel (pun intended).
+  *  [Evangelos](https://github.com/Evangelos-Z)... time is an illusion that helps things make sense, so we're always living in the present tense[...] will happen, happening, happened[...]
+  *  
 ## Toolkit:
 
 * **JupyterLab**: Enviorment for Python scripts and managing files.
