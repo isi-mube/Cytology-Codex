@@ -83,7 +83,8 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
 * `10/07/23`: Created basic structure of folders, README in GitHub. Struggling with my Data gathering.
 * `11-13/07/23`: Found new sources of Data, cleaned the code for multiclassification, ran a first script using salivary gland specimens.
 * `15/07/23`: Documenting the process in the README files, getting in touch with fellow colleagues (cytopathologists, cytotechnologists, professors) to get new insights and cross-validation the images.
-
+* `16/07/23`: MVP checked. The first model runs with salivary gland specimens. Also, developed a basic Streamlit app for visualization.
+  
 ## Results
 
 <p align="center">
