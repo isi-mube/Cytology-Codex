@@ -87,14 +87,9 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
   
 ## Results and Conclusions
 
-<p align="center">
-  <img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="54%">
-</p>
-
-<p align="center">
-  <img src="https://i.ibb.co/bgRghDK/cm.png" width="55%">
-</p>
-
+For specific metric results, please refer to the specific Python folder:
+  * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
+     
 Using my [previous knowledge](https://github.com/isi-mube/cosmic-compendium) on Computer Vision, I could re-use and adapt my previous CNN to this multiclassification problem, after 2
 
 ## Acknowledgments:
