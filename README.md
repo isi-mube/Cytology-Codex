@@ -35,9 +35,7 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 <p align="justify">Let´s define first a few key terms:</p>
 <ul>
     <li><strong>Cytology:</strong> This is the study of individual cells to detect abnormalities, including cancer. It's a type of sample method that provides a less invasive alternative to biopsies, enabling early diagnosis and treatment initiation, and improving health outcomes.</li>
-  <br>
     <li><strong>Cytopathology:</strong> A specialized field, nested in pathology, that looks at diseases on the cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, focusing on screening, interpretation, and diagnosis of diverse cell samples.</li>
-  <br>
   </p>
     <li><strong>Digital Pathology:</strong> This involves digitizing pathology slides, allowing the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
 </ul>
