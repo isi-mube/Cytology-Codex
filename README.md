@@ -30,10 +30,12 @@ Secondary Objectives:
 
 This project started on 08/07/2023 and was completed within 3 weeks, presented on 27/07/2023 for Ironhack´s final bootcamp project.
 
+
 ## About Cytology
 ### Glossary
+Let´s define first a few key terms:
 <ul>
-    <li><strong>Cytology</strong>: Cytology is the study of individual cells to detect abnormalities, including cancer. It provides a less invasive alternative to biopsies, thus enabling early diagnosis and treatment initiation. 
+    <li><strong>Cytology</strong>, is the study of individual cells to detect abnormalities, including cancer. Also, it´s a type of sample method that provides a less invasive alternative to biopsies, enabling early diagnosis and treatment initiation, and improving health outcomes. 
   <br>
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/57273049676ed453399c1a2c8d4aced6.jpeg" width="26%">
@@ -41,8 +43,13 @@ This project started on 08/07/2023 and was completed within 3 weeks, presented o
   <small><em>George Papanicolaou was a Greek-American cytologist born on May 13, 1883, renowned for developing the Pap smear test, which is extensively used worldwide for the detection and prevention of cervical cancer and other cytological diseases.</em></small>
 </p>
 <br>
-  <li><strong>Cytopathology</strong>: is a branch of pathology that studies diseases on a cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, for screening, interpretation, and diagnosis of diverse cell samples.</li>
+  <li><strong>Cytopathology</strong>, is a specialized field, nested in pathology, that looks at diseases on the cellular level. Professionals of cytopathology include Cytotechnologists & Cytopathologists, focusing on screening, interpretation, and diagnosis of diverse cell samples.</li>
   <br>
+<p align="center">
+  <img src="https://imgtr.ee/images/2023/07/16/bf64282f087b813d37fcf9799edd6144.png" width="26%">
+  <br>
+    <small><em>A beautiful group of endocervical cells viewed from the side in a "picket-fence" palisade pattern, with basal nuclei and columnar cytoplasm, from a gynecological sample. PAP stained, 40X augmentation..</em></small>
+  </p>
     <li><strong>Digital Pathology</strong>: Digital pathology involves digitizing pathology slides, which allows the use of image-based information for diagnosis, research, and teaching. Despite its growth, this field faces significant challenges, particularly regarding the large sizes of image data and the computational and storage resources required.</li>
 </ul>
   <br>
