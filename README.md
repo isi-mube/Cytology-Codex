@@ -112,23 +112,33 @@ Using my [previous knowledge](https://github.com/isi-mube/cosmic-compendium) on 
 
 ## Toolkit:
 
-* **JupyterLab**: Enviorment for Python scripts and managing files.
+* **JupyterLab**: Enviorment for Python scripts and managing files. AKA, as if VSCode and JupyterNotebook had a kid.
 
 **Libraries**
 
+📚 Basic Libraries
 * **Pandas**: Data manipulation and analysis.
-* **Numpy**: Arrays and mathematical functions.
+* **Numpy**: Arrays and mathematical functions, allowing it to read images.
 * **Os**: File managment.
-* **Warnings**: Roses are red, violets are blue --> Warnings are annoying.
-* **Matplotlib**: Data visualization.
+* **Matplotlib**: 2D Data visualization.
 * **Seaborn**: Runs on top of matplotlib, HD data visualization.
+* **PIL:** Python Imaging Library to manipulate images.
+
+🛠️ Tools
+* **Warnings**: Roses are red, violets are blue --> Warnings are annoying.
 * **Shutil**: File operations (copying, deleting...).
+* **Random:** To generate random subsets of data.
+
+🌐 Computer Vision
 * **TensorFlow:** Machine Learning for Computer Vision.
 * **Keras:** High-level neural networks API for Deep Learning, running on top of TensorFlow.
-* **Sklearn:** Machine Learning metrics.
-* **PIL:** Python Imaging Library to manipulate images.
-* **Random:** To generate random subsets.
 * **ImageDataGenerator:** To generate random data augmentation (flips, zoom...).
+
+📈 Metrics and Reports
+* **Sklearn:** Machine Learning metrics.
+* **Confusion Matrix:** To evaluate true and false positives and negatives.
+* **Confusion Matrix Display:** To easily display the matrix.
+* **Classification Report:** For a more accurate detail of each metrics (precision, recall, f1-score, support).
 
 ## Bibliography:
 
