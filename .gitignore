@@ -5,8 +5,8 @@
 # Ignore log files
 *.log
 
-# Ignoring specific folders, data files and the app folder
-03_app
+# Ignoring specific folders and some  data files
+03_app/app.py
 01_data/01_salivary_gland
 01_data/01_salivary_gland/00_epochs
 .ipynb_checkpoints/test-checkpoint.ipynb
