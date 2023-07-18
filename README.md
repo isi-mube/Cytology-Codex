@@ -53,9 +53,9 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 ### Personal Journey and Perspectives on Cytology
 <p align="justify">My past 5 years of work have been all around Cytology; it involved screening and diagnosis of numerous cytology specimens, quality control, and engaging in both teaching and research, including Digital Pathology publications.</p>
 
-<p align="justify">One significant barrier to the digitalization of Cytological samples is the final size. As previously explained, the cells in Cytology are not flat, unlike in Histology, but three-dimensional. This complexity typically necessitates a Z-stack scanning of the slides to capture all focal points, resulting in large digital files.</p>
+<p align="justify">One significant barrier to the digitalization of Cytological samples is the final size. As previously explained, the cells in Cytology are not flat, unlike in Histology, but three-dimensional. This complexity typically requires a Z-stack scanning of the slides to capture all focal points, resulting in large digital files.</p>
 
-<p align="justify">Despite this challenge, I firmly believe that Machine Learning and Deep Learning models can be implemented in Cytology images, bypassing the need for complete scan, hence one of the most challenging aspects of the digitalization process.</p>
+<p align="justify">Despite this challenge, I firmly believe that Machine Learning and Deep Learning models can be implemented in Cytology images, bypassing the need for a complete scan, hence one of the most challenging aspects of the digitalization process.</p>
 
 ## Results and Conclusions
 
