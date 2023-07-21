@@ -59,6 +59,10 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 
 ## Results and Conclusions
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1129416761922568212/1131908804737511614/isi.mube_a_digital_microscope_for_cytology_using_coding_python__4a737afb-f51a-45fd-a3fc-da6e11f6db32.png" width="36%">
+</p>
+
 For specific metric results, please refer to the specific Python folder:
   * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
     
