@@ -21,7 +21,7 @@ This project started on `08/07/2023` and was completed within 3 weeks, presented
 
 Primary Objective:
 <ul>
-  <li>Develop multiple-multiclass classification models capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid, bone, lymph nodes, soft tissues, pancreas, bronchial washings, urine, and effusions.</li>
+  <li>Develop multiple-multiclass classification models capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid and effussions.</li>
 </ul>
 
 Secondary Objectives:
