@@ -1,6 +1,6 @@
 # 📈 Results
 
-This second and final model was with 200 unique images for each class. The more images are added, the better the model performance.
+This second and final model used 200 unique images for each class. Increasing the number of images improved the model performance.
 
 <table width="100%">
   <tr>
