@@ -1,6 +1,6 @@
 # 📈 Results
 
-This second and final model used 200 unique images for each class. Increasing the number of images improved the model performance.
+This second and final model used 200 unique images for each class (also, reducing 5 to 4 classes). Increasing the number of images improved the model performance.
 
 <table width="100%">
   <tr>
