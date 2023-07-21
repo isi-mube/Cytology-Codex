@@ -70,7 +70,7 @@ This final model used all images from previous models.
 </table>
 </div>
   
-# 📈 Previous esults II
+## 📈 Previous Results II
 
 This second model used 200 unique images for each class (also, reducing 5 to 4 classes). Increasing the number of images improved the model performance.
 
@@ -141,7 +141,7 @@ This second model used 200 unique images for each class (also, reducing 5 to 4 c
   </tr>
 </table>
 
-# 📈 Previous Results I
+## 📈 Previous Results I
 
 This model was a first attempt, extracting 100 images for each class only.
 
