@@ -60,7 +60,7 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 ## Results and Conclusions
 
 <p align="center">
-  <img src="https://i.postimg.cc/zvkVnDCK/microfinal.png" width="36%">
+  <img src="https://i.ibb.co/2ZMQJqH/microfinal.png" width="100%">
 </p>
 
 For specific metric results, please refer to the specific Python folder:
