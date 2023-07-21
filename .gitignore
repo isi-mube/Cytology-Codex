@@ -14,7 +14,7 @@
 01_data/03_thyroid
 01_data/03_thyroid/00_epochs
 01_data/04_efussions_wellgen
-01_data/04_efussions_wellgen
+01_data/04_efussions_wellgen/00_epochs
 .ipynb_checkpoints/test-checkpoint.ipynb
 00_entropy/.ipynb_checkpoints/test-checkpoint.ipynb
 01_data/.ipynb_checkpoints/README-checkpoint.md
