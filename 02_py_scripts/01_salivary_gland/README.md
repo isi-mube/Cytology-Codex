@@ -1,5 +1,7 @@
 # 📈 Results
 
+This second and final model was with 200 unique images for each class. The more images are added, the better the model performance.
+
 <table width="100%">
   <tr>
     <td align="center"><img src="https://i.ibb.co/3m33pDR/accuracy2.png" width="100%"></td>
@@ -69,6 +71,8 @@
 
 
 # 📈 Previous Results
+
+This model was a first attempt, extracting 100 images for each class only.
 
 <table width="100%">
   <tr>
