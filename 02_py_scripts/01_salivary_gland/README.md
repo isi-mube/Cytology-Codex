@@ -2,6 +2,76 @@
 
 <table width="100%">
   <tr>
+    <td align="center"><img src="https://i.ibb.co/3m33pDR/accuracy2.png" width="100%"></td>
+    <td align="center"><img src="https://i.ibb.co/B4ZGjRh/confussionmatrix2.png" width="80%"></td>
+  </tr>
+</table>
+
+<div style="width: fit-content; margin: auto;">
+<table>
+  <tr>
+    <th></th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1-Score</th>
+    <th>Support</th>
+  </tr>
+  <tr>
+    <td>acinar_carcinoma</td>
+    <td>0.296296</td>
+    <td>0.284932</td>
+    <td>0.290503</td>
+    <td>365.000000</td>
+  </tr>
+  <tr>
+    <td>adenoid_cystic_carcinoma</td>
+    <td>0.228426</td>
+    <td>0.256410</td>
+    <td>0.241611</td>
+    <td>351.000000</td>
+  </tr>
+  <tr>
+    <td>pleomorphic_adenoma</td>
+    <td>0.249284</td>
+    <td>0.243017</td>
+    <td>0.246110</td>
+    <td>358.000000</td>
+  </tr>
+  <tr>
+    <td>warthin_tumor</td>
+    <td>0.240964</td>
+    <td>0.227273</td>
+    <td>0.233918</td>
+    <td>352.000000</td>
+  </tr>
+  <tr>
+    <td>accuracy</td>
+    <td>0.253156</td>
+    <td>0.253156</td>
+    <td>0.253156</td>
+    <td>0.253156</td>
+  </tr>
+  <tr>
+    <td>macro avg</td>
+    <td>0.253743</td>
+    <td>0.252908</td>
+    <td>0.253035</td>
+    <td>1426.000000</td>
+  </tr>
+  <tr>
+    <td>weighted avg</td>
+    <td>0.254129</td>
+    <td>0.253156</td>
+    <td>0.253356</td>
+    <td>1426.000000</td>
+  </tr>
+</table>
+
+
+# 📈 Previous Results
+
+<table width="100%">
+  <tr>
     <td align="center"><img src="https://i.ibb.co/GFBcMg6/accuracy.png" width="100%"></td>
     <td align="center"><img src="https://i.ibb.co/bgRghDK/cm.png" width="80%"></td>
   </tr>
