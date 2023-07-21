@@ -9,6 +9,12 @@
 03_app/app.py
 01_data/01_salivary_gland
 01_data/01_salivary_gland/00_epochs
+01_data/02_gynecological
+01_data/02_gynecological/00_epochs
+01_data/03_thyroid
+01_data/03_thyroid/00_epochs
+01_data/04_efussions_wellgen
+01_data/04_efussions_wellgen
 .ipynb_checkpoints/test-checkpoint.ipynb
 00_entropy/.ipynb_checkpoints/test-checkpoint.ipynb
 01_data/.ipynb_checkpoints/README-checkpoint.md
