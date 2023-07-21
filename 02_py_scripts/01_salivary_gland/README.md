@@ -1,6 +1,78 @@
 # 📈 Results
 
-This second and final model used 200 unique images for each class (also, reducing 5 to 4 classes). Increasing the number of images improved the model performance.
+This final model used all images from previous models.
+
+<table width="100%">
+  <tr>
+    <td align="center"><img src="https://i.ibb.co/s5wVvwr/accuracy.png" width="100%"></td>
+    <td align="center"><img src="https://i.ibb.co/gZwDcHN/cm.png" width="80%"></td>
+  </tr>
+</table>
+
+<div style="width: fit-content; margin: auto;">
+<table>
+  <tr>
+    <th></th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1-Score</th>
+    <th>Support</th>
+  </tr>
+  <tr>
+    <td>acinar_carcinoma</td>
+    <td>0.284314</td>
+    <td>0.308511</td>
+    <td>0.295918</td>
+    <td>282.000000</td>
+  </tr>
+  <tr>
+    <td>adenoid_cystic_carcinoma</td>
+    <td>0.221311</td>
+    <td>0.225941</td>
+    <td>0.223602</td>
+    <td>239.000000</td>
+  </tr>
+  <tr>
+    <td>pleomorphic_adenoma</td>
+    <td>0.287234</td>
+    <td>0.296703</td>
+    <td>0.291892</td>
+    <td>273.000000</td>
+  </tr>
+  <tr>
+    <td>warthin_tumor</td>
+    <td>0.192982</td>
+    <td>0.157895</td>
+    <td>0.173684</td>
+    <td>209.000000</td>
+  </tr>
+  <tr>
+    <td>accuracy</td>
+    <td>0.254237</td>
+    <td>0.254237</td>
+    <td>0.254237</td>
+    <td>0.254237</td>
+  </tr>
+  <tr>
+    <td>macro avg</td>
+    <td>0.246460</td>
+    <td>0.247263</td>
+    <td>0.246274</td>
+    <td>1003.000000</td>
+  </tr>
+  <tr>
+    <td>weighted avg</td>
+    <td>0.251065</td>
+    <td>0.254237</td>
+    <td>0.252120</td>
+    <td>1003.000000</td>
+  </tr>
+</table>
+</div>
+  
+# 📈 Previous esults II
+
+This second model used 200 unique images for each class (also, reducing 5 to 4 classes). Increasing the number of images improved the model performance.
 
 <table width="100%">
   <tr>
@@ -69,8 +141,7 @@ This second and final model used 200 unique images for each class (also, reducin
   </tr>
 </table>
 
-
-# 📈 Previous Results
+# 📈 Previous Results I
 
 This model was a first attempt, extracting 100 images for each class only.
 
