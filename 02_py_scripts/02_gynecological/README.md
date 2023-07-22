@@ -1,7 +1,5 @@
 # 📈 Results
 
-This final model used all images from previous models.
-
 <table width="100%">
   <tr>
     <td align="center"><img src="https://i.ibb.co/tBr86H7/gynacc.png" width="100%"></td>
