@@ -1,5 +1,7 @@
-<h1 style="text-align: center;">📖 Cytology Codex</h1>
-<h3 style="text-align: center;">The Digital Tome of Cytology: Deep Learning & Neural Networks Transmutation</h3>
+<p align="center">
+  <h1>📖 Cytology Codex</h1>
+  <h3>The Digital Tome of Cytology: Deep Learning & Neural Networks Transmutation</h3>
+</p>
 
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%">
