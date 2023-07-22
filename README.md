@@ -11,25 +11,25 @@
   <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland'>Chapter I:</a> Salivary gland specimens:
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
     </ul>
   </li>
   <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological'>Chapter II:</a> Gynecological specimens:
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
     </ul>
   </li>
   <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid'>Chapter III:</a> Thyroid specimens:
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
     </ul>
   </li>
   <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen'>Chapter IV:</a> Effussions specimens:
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/01_data_wrangling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
     </ul>
   </li>
 </ol>
