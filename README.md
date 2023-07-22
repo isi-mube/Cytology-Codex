@@ -121,3 +121,4 @@ For specific metric results, please refer to the specific Python folder:
 * Chollet, F. (n.d.). Keras Metrics. Keras. Retrieved from https://keras.io/api/metrics/
 * Nicholas Renotte. (n.d.). Build a Deep CNN Image Classifier with ANY Images. [Video]. YouTube. Available at: https://www.youtube.com/watch?v=jztwpsIzEGc
 * OpenCV Team. (n.d.). Medical Multi-Label Classification. LearnOpenCV. Retrieved from https://learnopencv.com/medical-multi-label/
+* Desolneux, A., Moisan, L., & Morel, J. M. (2003). Gestalt Theory and Computer Vision. In A. Desolneux, L. Moisan, & J. M. Morel (Authors), From Gestalt theory to image analysis: a probabilistic approach (pp. 1-19). Springer.
