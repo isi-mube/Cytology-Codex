@@ -119,4 +119,5 @@ For specific metric results, please refer to the specific Python folder:
 
 * Chollet, F. (n.d.). Image Classification from Scratch. Keras. Retrieved from https://keras.io/examples/vision/image_classification_from_scratch/#introduction
 * Chollet, F. (n.d.). Keras Metrics. Keras. Retrieved from https://keras.io/api/metrics/
-*  Nicholas Renotte. (n.d.). Build a Deep CNN Image Classifier with ANY Images. [Video]. YouTube. Available at: https://www.youtube.com/watch?v=jztwpsIzEGc
+* Nicholas Renotte. (n.d.). Build a Deep CNN Image Classifier with ANY Images. [Video]. YouTube. Available at: https://www.youtube.com/watch?v=jztwpsIzEGc
+* OpenCV Team. (n.d.). Medical Multi-Label Classification. LearnOpenCV. Retrieved from https://learnopencv.com/medical-multi-label/
