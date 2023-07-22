@@ -83,6 +83,10 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 
 For specific metric results, please refer to the specific Python folder:
   * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
+  * [Gynecological results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological)
+  * [Thyroid](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid)
+  * [Effussions (WellGen)](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen)
+
     
 <ol>
     <li>The convolutional neural network (CNN) model demonstrated excellent accuracy in the multiple-multiclass classification of cytology images, with a performance metric of approximately 90-95% accuracy around the 20-25 epoch mark.</li>
