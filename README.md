@@ -97,12 +97,12 @@ For specific metric results, please refer to the specific Python folder:
 
 * [Xisca](https://www.linkedin.com/in/xisca-sorell-llull-39128949/): Endless source of wisdom and inspiration. Your faith in me pushed my boundaries, driving me beyond what I believed was possible to accomplish.
 * [Sabina](https://www.linkedin.com/in/sabina-firtala/): Your [knowledge ](https://github.com/sabinagio/do-you-see-what-AI-see) on Computer Vision sparked my curiosity.
-* [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/): Thank you for your emotional support during the bootcamp and amazing feedbacks.
+* [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/): For your emotional support during the bootcamp and amazing coding-feedbacks.
 * [Camille](https://www.linkedin.com/in/camillecoeurjoly/): Your sharp eyes and Python tricks helped my learning.
-* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): A true friend. Your ideas and resources in Cytology have been a life-saver.
+* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): Life saverA true friend. Your ideas and resources in Cytology have been a life-saver.
 * My classmates. Specially:
   *  [Nicole](https://github.com/tzeyeenliew), your trust, cheerfulness, and empathy made difficult times bearable.
-  *  [Nati](https://github.com/natnaelfe), a friend like no other. Your moral support has been godsend.
+  *  [Nati](https://github.com/natnaelfe), your moral support has been godsend.
   *  [Luis](https://github.com/lj90pot), I mean... Luisi forever. Your calm approach and tech-savviness were a constant motivation to excel (pun intended).
   *  [Evangelos](https://github.com/Evangelos-Z)... time is an illusion that helps things make sense, so we're always living in the present tense...
 
