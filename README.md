@@ -137,9 +137,9 @@ For specific metric results, please refer to the specific Python folder:
 * [Sabina](https://www.linkedin.com/in/sabina-firtala/): Your [knowledge ](https://github.com/sabinagio/do-you-see-what-AI-see) on Computer Vision sparked my curiosity.
 * [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/): For your emotional support during the bootcamp and amazing coding-feedbacks.
 * [Camille](https://www.linkedin.com/in/camillecoeurjoly/): Your sharp eyes and Python tricks helped my learning.
-* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): Life saverA true friend. Your ideas and resources in Cytology have been a life-saver.
+* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): Simply, my life saver.
 * My classmates. Specially:
-  *  [Nicole](https://github.com/tzeyeenliew), your trust, cheerfulness, and empathy made difficult times bearable.
-  *  [Nati](https://github.com/natnaelfe), your moral support has been godsend.
-  *  [Luis](https://github.com/lj90pot), I mean... Luisi forever. Your calm approach and tech-savviness were a constant motivation to excel (pun intended).
-  *  [Evangelos](https://github.com/Evangelos-Z)... time is an illusion that helps things make sense, so we're always living in the present tense...
+  *  [Nicole](https://github.com/tzeyeenliew), you help me go through dark times !
+  *  [Nati](https://github.com/natnaelfe), your moral support has been a godsend.
+  *  [Luis](https://github.com/lj90pot), Luisi forever. You are a constant motivation to excel (pun intended).
+  *  [Evangelos](https://github.com/Evangelos-Z) [...] time is an illusion that helps things make sense, so we're always living in the present tense...
