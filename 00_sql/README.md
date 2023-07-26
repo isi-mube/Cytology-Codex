@@ -18,6 +18,17 @@
 
 Firstly, I erased some columns manually since they contained patient information (name, identification number) and some other sensetive information, and with that Excel file (exported to CSV), I wanted to know how many cases I had for a given sample. For example, thyroid:</p>
 
+meaning,count
+"M-60000 citología normal",50
+"DB-80100 bocio",11
+"M-3340A quiste",10
+"M-67000 atipia citológica (anomalía morfológica)",8
+"M-33790 quiste coloidal",6
+"M-83300 adenoma folicular",2
+"M-80103 carcinoma",2
+"G-C528 procedimiento de obtención del espécimen, P1-03254 biopsia por aspiración con aguja fina de glándula tiroides con guía ecográfica, M-60000 citología normal",2
+
+
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/30eff73003bba45453f247e497ad7f50.png" width="36%">
   <br>
