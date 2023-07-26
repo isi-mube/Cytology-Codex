@@ -1,10 +1,22 @@
 <div>
 <h1 id="about-the-data">📔 About SQL</h1>
 
-<p style="text-align:justify">The SQL part was linked to my first <a href='https://github.com/isi-mube/cytology-codex/tree/main/01_data'>data gathering</a> idea of manually selecting and capturing the images using my own archive of Cytology samples.
+<p style="text-align:justify">The SQL part was linked to my first <a href='https://github.com/isi-mube/cytology-codex/tree/main/01_data'>data gathering</a> idea of manually selecting and capturing the images using my own archive of Cytology samples from <a href='https://synlab.es/en/'>SYNLAB</a>.
 
-Firstly, I erased some columns manually since it contained patient information, and with that excel file, I wanted to know how many cases I had for a given sample. For example, thyroid:</p>
+<div style="display: flex; justify-content: center;">
+  <div style="width: 20%; padding: 1%;">
+<p align="center">
+    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 40%;">
+</p>
+  </div>
+  <div style="width: 20%; padding: 1%;">
+<p align="center">
+    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 40%;">
+</p>
+  </div>
+</div>
 
+Firstly, I erased some columns manually since they contained patient information (name, identification number) and some other sensetive information, and with that Excel file, I wanted to know how many cases I had for a given sample. For example, thyroid:</p>
 
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/30eff73003bba45453f247e497ad7f50.png" width="36%">
