@@ -16,7 +16,7 @@
   </div>
 </div>
 
-Firstly, I erased some columns manually since they contained patient information (name, identification number) and some other sensetive information, and with that Excel file, I wanted to know how many cases I had for a given sample. For example, thyroid:</p>
+Firstly, I erased some columns manually since they contained patient information (name, identification number) and some other sensetive information, and with that Excel file (exported to CSV), I wanted to know how many cases I had for a given sample. For example, thyroid:</p>
 
 <p align="center">
   <img src="https://imgtr.ee/images/2023/07/15/30eff73003bba45453f247e497ad7f50.png" width="36%">
