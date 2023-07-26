@@ -5,7 +5,7 @@
 
 <h2 id="first-idea">First Idea</h2>
 
-<p style="text-align:justify">The original idea was to use my own data, given my direct access to it as a professional in the field. However, the process of manually selecting and capturing the images using my phone camera and microscope proved to be time-consuming and would have necessitated extensive preprocessing. This was not the best approach for an ambitious three-week project.</p>
+<p style="text-align:justify">The original idea was to use my own data, given my direct access to it as a professional in the field. However, the process of manually selecting and capturing the images using my phone camera and microscope proved to be time-consuming and would have necessitated extensive preprocessing. This was not the best approach for an ambitious three-week project. Also, as explained in <a href='https://github.com/isi-mube/cytology-codex/tree/main/00_sql'>SQL part</a>, I lacked Data so it was not the right approach.</p>
 
 <div style="display: flex; justify-content: center;">
   <div style="width: 20%; padding: 1%;">
