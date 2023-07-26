@@ -59,4 +59,4 @@ Using caso, SNOMEDCT, and diagnose columns, I extracted all cases ID and their d
   </tr>
 </table>
 
-<p style="text-align:justify">So, as explained in <a href='https://github.com/isi-mube/cytology-codex/tree/main/01_data'>data gathering</a> I had to change my approach and getting my Data from other sources.</p>
+<p style="text-align:justify">The majority of my cases were benign, having only 2 cases of carcinoma. Not enough Data to work with. So, as explained in <a href='https://github.com/isi-mube/cytology-codex/tree/main/01_data'>data gathering</a> I had to change my approach and get my Data from other sources.</p>
