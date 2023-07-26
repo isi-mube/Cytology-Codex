@@ -80,9 +80,6 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 <p align="center">
   <img src="https://i.postimg.cc/zvkVnDCK/microfinal.png" width="36%">
 </p>
-
-For specific metric results, please refer to the specific Python folder:
-  * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
     
 <ol>
     <li>The convolutional neural network (CNN) model demonstrated excellent accuracy in the multiple-multiclass classification of cytology images, with a performance metric of approximately 90-95% accuracy around the 20-25 epoch mark.</li>
@@ -90,18 +87,11 @@ For specific metric results, please refer to the specific Python folder:
     <li>This model has the potential for real-world implementation, opening the door for the creation of AI algorithms using single-layer cytological slide scans or even phone-captured images, thereby challenging the need for full slide multi-layer scanning with z-stack, a process that is both costly and time-consuming.</li>
 </ol>
 
-## Acknowledgments:
-
-* [Xisca](https://www.linkedin.com/in/xisca-sorell-llull-39128949/): Endless source of wisdom and inspiration. Your faith in me pushed my boundaries, driving me beyond what I believed was possible to accomplish.
-* [Sabina](https://www.linkedin.com/in/sabina-firtala/): Your [knowledge ](https://github.com/sabinagio/do-you-see-what-AI-see) on Computer Vision sparked my curiosity.
-* [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/): Thank you for your emotional support during the bootcamp and amazing feedbacks.
-* [Camille](https://www.linkedin.com/in/camillecoeurjoly/): Your sharp eyes and Python tricks helped my learning.
-* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): A true friend. Your ideas and resources in Cytology have been a life-saver.
-* My classmates. Specially:
-  *  [Nicole](https://github.com/tzeyeenliew), your trust, cheerfulness, and empathy made difficult times bearable.
-  *  [Nati](https://github.com/natnaelfe), a friend like no other. Your moral support has been godsend.
-  *  [Luis](https://github.com/lj90pot), I mean... Luisi forever. Your calm approach and tech-savviness were a constant motivation to excel (pun intended).
-  *  [Evangelos](https://github.com/Evangelos-Z)... time is an illusion that helps things make sense, so we're always living in the present tense...
+For specific metric results, please refer to the specific Python folder:
+  * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
+  * [Gynecological results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological)
+  * [Thyroid](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid)
+  * [Effussions (WellGen)](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen)
 
 ## Toolkit:
 
@@ -140,3 +130,16 @@ For specific metric results, please refer to the specific Python folder:
 * Nicholas Renotte. (n.d.). Build a Deep CNN Image Classifier with ANY Images. [Video]. YouTube. Available at: https://www.youtube.com/watch?v=jztwpsIzEGc
 * OpenCV Team. (n.d.). Medical Multi-Label Classification. LearnOpenCV. Retrieved from https://learnopencv.com/medical-multi-label/
 * Desolneux, A., Moisan, L., & Morel, J. M. (2003). Gestalt Theory and Computer Vision. In A. Desolneux, L. Moisan, & J. M. Morel (Authors), From Gestalt theory to image analysis: a probabilistic approach (pp. 1-19). Springer.
+
+## Acknowledgments:
+
+* [Xisca](https://www.linkedin.com/in/xisca-sorell-llull-39128949/): Endless source of wisdom and inspiration. Your faith in me pushed my boundaries, driving me beyond what I believed was possible to accomplish.
+* [Sabina](https://www.linkedin.com/in/sabina-firtala/): Your [knowledge ](https://github.com/sabinagio/do-you-see-what-AI-see) on Computer Vision sparked my curiosity.
+* [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/): For your emotional support during the bootcamp and amazing coding-feedbacks.
+* [Camille](https://www.linkedin.com/in/camillecoeurjoly/): Your sharp eyes and Python tricks helped my learning.
+* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): Simply, my life saver.
+* My classmates. Specially:
+  *  [Nicole](https://github.com/tzeyeenliew), you help me go through dark times !
+  *  [Nati](https://github.com/natnaelfe), your moral support has been a godsend.
+  *  [Luis](https://github.com/lj90pot), Luisi forever. You are a constant motivation to excel (pun intended).
+  *  [Evangelos](https://github.com/Evangelos-Z) [...] time is an illusion that helps things make sense, so we're always living in the present tense...
