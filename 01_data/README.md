@@ -1,4 +1,4 @@
-3<div>
+<div>
 <h1 id="about-the-data">💻 About the Data</h1>
 
 <p style="text-align:justify">Gathering and extracting sufficient cytology image data for the project was a challenging step due to the lack of publicly available images, slides, and online microscopes.</p>
