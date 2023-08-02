@@ -88,7 +88,7 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 </ol>
 
 <div align="center">
-  <img src="https://s11.gifyu.com/images/ScnZm.gif"/>
+  <img src="https://s11.gifyu.com/images/ScntV.gif"/>
 </div>
 
 
