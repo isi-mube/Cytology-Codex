@@ -87,6 +87,11 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
     <li>This model has the potential for real-world implementation, opening the door for the creation of AI algorithms using single-layer cytological slide scans or even phone-captured images, thereby challenging the need for full slide multi-layer scanning with z-stack, a process that is both costly and time-consuming.</li>
 </ol>
 
+<div align="center">
+  <img src="https://s11.gifyu.com/images/ScnZm.gif"/>
+</div>
+
+
 For specific metric results, please refer to the specific Python folder:
   * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
   * [Gynecological results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological)
