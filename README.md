@@ -130,11 +130,15 @@ For specific metric results, please refer to the specific Python folder:
 
 ## Bibliography:
 
-* Chollet, F. (n.d.). Image Classification from Scratch. Keras. Retrieved from https://keras.io/examples/vision/image_classification_from_scratch/#introduction
-* Chollet, F. (n.d.). Keras Metrics. Keras. Retrieved from https://keras.io/api/metrics/
-* Nicholas Renotte. (n.d.). Build a Deep CNN Image Classifier with ANY Images. [Video]. YouTube. Available at: https://www.youtube.com/watch?v=jztwpsIzEGc
-* OpenCV Team. (n.d.). Medical Multi-Label Classification. LearnOpenCV. Retrieved from https://learnopencv.com/medical-multi-label/
+* Chollet, F. Image Classification from Scratch. Keras. Retrieved from https://keras.io/examples/vision/image_classification_from_scratch/#introduction
+* Chollet, F. Keras Metrics. Keras. Retrieved from https://keras.io/api/metrics/
+* Nicholas Renotte. Build a Deep CNN Image Classifier with ANY Images. [Video]. YouTube. Available at: https://www.youtube.com/watch?v=jztwpsIzEGc
+* OpenCV Team. Medical Multi-Label Classification. LearnOpenCV. Retrieved from https://learnopencv.com/medical-multi-label/
 * Desolneux, A., Moisan, L., & Morel, J. M. (2003). Gestalt Theory and Computer Vision. In A. Desolneux, L. Moisan, & J. M. Morel (Authors), From Gestalt theory to image analysis: a probabilistic approach (pp. 1-19). Springer.
+* Convolutional Neural Networks Explained. Towards Data Science. Retrieved from https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
+* Different Types of CNN Architectures Explained - Examples. Vitalflux. Retrieved from https://vitalflux.com/different-types-of-cnn-architectures-explained-examples/
+* CNN Architecture. InterviewBit. Retrieved from https://www.interviewbit.com/blog/cnn-architecture/
+* Convolutional Neural Networks (CNN) Architectures Explained. Medium. Retrieved from https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243
 
 ## Acknowledgments:
 
