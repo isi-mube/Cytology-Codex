@@ -6,17 +6,17 @@
 <div style="display: flex; justify-content: center;">
   <div style="width: 20%; padding: 1%;">
 <p align="center">
-    <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 40%;">
+    <img src="https://i.postimg.cc/Xq9wg1Q9/data-extraction.png" style="width: 40%;">
 </p>
   </div>
   <div style="width: 20%; padding: 1%;">
 <p align="center">
-    <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 40%;">
+    <img src="https://i.postimg.cc/sXhSV0Fb/data-extraction2.png" style="width: 40%;">
 </p>
   </div>
 </div>
 
-<p style="text-align:justify">Firstly, I erased some columns manually since they contained patient information (name, identification number) and some other sensitive information, and with that Excel file (exported to CSV).
+<p style="text-align:justify">Firstly, I erased some columns manually since they contained patient information (name, identification number) and some other sensitive information, and with that Excel file (exported to CSV) I started with SQL.
 
 Using caso, SNOMEDCT, and diagnose columns, I extracted all cases ID and their diagnose from the Excel file. My idea was to check the majority of my sample archives, get to know their diagnosis, and start the image gathering. Using some simple SQL queries, I realized the majority of my samples were thyroid (91 cases). Then, I checked their diagnosis:</p>
 
