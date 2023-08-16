@@ -48,25 +48,25 @@ return keras.Model(inputs, x)
 * **Conv2 Layer**: Convolutional layer of the network, where the image pre-processing happens and the kernel filter the image on the whole image, detecting lines and edges. `32`, `64`, `128` refers to the umber of filters used, starting from a small number. `Relu` activation adds non-linearity to the model, to learn more complex patterns.
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/16/2ec21fb98202f4f49aacede568160fef.webp" width="36%">
+  <img src="https://i.postimg.cc/KjMcCdMs/cytology-codex-final-6.png" width="36%">
 </p>
 
 * **MaxPooling2D Layer**: It performs downsampling operations, and also spatial dimensions (width, height), reducing overfitting and the computional cost by decreasing the spatial dimensionality. This process goes along with the convolutional layer, with different kernel sizes, to learn more complex patterns from Data.
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/16/2de962eb5ef3e02f776e63be21794789.png" width="36%">
+  <img src="https://i.postimg.cc/J4jj9hjm/cytology-codex-final-7.png" width="36%">
 </p>
 
 * **Flatten Layer**: It prepares the multi-dimensional input for the last fully and dense layer, converting the 2D matrix to a 1D vector.
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/16/09a1974ed212b1bdfaab538a6585d8ca.png" width="36%">
+  <img src="https://i.postimg.cc/Wb7hGqMD/cytology-codex-final-8.png" width="36%">
 </p>
 
 * **Dense Layer**: It takes the Flatten inputs through a series of neurons. First 512, then 256. It's where all previous neurons are fully connected, the 'softmax' activation it's used in multi-classification models, in this case, '5' corresponds to the number of target classes.
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/16/1c1817cf8b06c0dbb8433e6d95357ad5.png" width="36%">
+  <img src="https://i.postimg.cc/jS5dygx9/cytology-codex-final-9.png" width="36%">
 </p>
 
 In short, this CNN model learns hierarchical representations of the images, from low-level structures (lines, edges, textures) in the initial layers to more complex high-level features such as patterns and objects.
