@@ -63,7 +63,7 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 <p align="justify">In digital cytology, we face a unique challenge. Unlike in histology, where cells maintain their flat structure (like a single layer of bricks on a wall), cytology samples can be more like a pile of bricks dumped out of a bucket. These cells in suspension no longer hold their original formation, making diagnosis more complex and time-consuming because it requires mastery of pattern recognition. Furthermore, due to these additional dimensions, digitizing these cell images requires even more storage space.</p>
   <br>
 <p align="center">
-  <img src="https://i.postimg.cc/YCxYsrvh/cytology-codex-final-1.png" width="36">
+  <img src="https://i.postimg.cc/YCxYsrvh/cytology-codex-final-1.png">
   <br>
   <small><em>Thyroid, papillar carcinoma. Same tumor, different methods and different features. On the left, histology (1-dimensional thin layer), and on the right, cytology (three-dimensional in suspension cells).</em></small>
 </p>
