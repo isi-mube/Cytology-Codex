@@ -21,7 +21,7 @@ top_sidebar_placeholder = st.sidebar.empty()
 # image for Home page
 top_sidebar_placeholder.markdown('''
 <p align="center">
-  <img src="https://i.postimg.cc/zvkVnDCK/microfinal.png" width="100%" alt="Cytology Image">
+  <img src="https://i.postimg.cc/0NJXSKtL/cytology-codex-final.png" width="100%" alt="Cytology Image">
   <br>
 </p>
 ''', unsafe_allow_html=True)
@@ -36,12 +36,13 @@ with st.spinner('Loading page...'):
         st.title('Cytology Codex')
         st.subheader('The Digital Tome of Cytology: Deep Learning & Neural Networks Transmutation')
         st.markdown('''
-        <p align="center">
-          <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%" alt="Cytology Image">
-          <br>
-          <small><em>Behold, the Digital Tome of Cytology, revealing microscopic marvels and cellular untold tales.</em></small>
-        </p>
-        ''', unsafe_allow_html=True)
+            <p align="center">
+              <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%" alt="Cytology Image">
+              <br>
+              <small style="font-size:18px;"><em>Behold, the Digital Tome of Cytology, revealing microscopic marvels and cellular untold tales.</em></small>
+            </p>
+            ''', unsafe_allow_html=True)
+
                 
     elif page == 'Diagnosis':
         # Title and logo
@@ -116,7 +117,7 @@ with st.spinner('Loading page...'):
             # Result presentation
             col1, col2 = st.columns(2)
             with col1:
-                col1.markdown(f"<h2 style='text-align: center; color: aqua;'>Diagnose: {class_name}</h2>", unsafe_allow_html=True)
+                col1.markdown(f"<h2 style='text-align: center; color: aqua;'>Image suggestive of: {class_name}</h2>", unsafe_allow_html=True)
                 col1.image(img, use_column_width=True)
 
             with col2:
@@ -175,7 +176,7 @@ with st.spinner('Loading page...'):
             <p align="justify">In digital cytology, we face a unique challenge. Unlike in histology, where cells maintain their flat structure (like a single layer of bricks on a wall), cytology samples can be more like a pile of bricks dumped out of a bucket. These cells in suspension no longer hold their original formation, making diagnosis more complex and time-consuming because it requires mastery of pattern recognition. Furthermore, due to these additional dimensions, digitizing these cell images requires even more storage space.</p>
             <br>
             <p align="center">
-            <img src="https://imgtr.ee/images/2023/07/15/ecaf6fb5b117693590759e95118a8150.jpeg" width="26%">
+            <img src="https://i.postimg.cc/YCxYsrvh/cytology-codex-final-1.png" width="26%">
             <br>
             <small><em>Thyroid, papillar carcinoma. Same tumor, different methods and different features. On the left, histology (1-dimensional thin layer), and on the right, cytology (three-dimensional in suspension cells).</em></small>
             </p>
@@ -204,12 +205,12 @@ with st.spinner('Loading page...'):
             <div style="display: flex; justify-content: center;">
             <div style="width: 30%; padding: 1%;">
             <p align="center">
-                <img src="https://imgtr.ee/images/2023/07/15/bb05317d3b2f007d0496feed3f64e146.jpeg" style="width: 100%;">
+                <img src="https://i.postimg.cc/Xq9wg1Q9/data-extraction.png" style="width: 100%;">
             </p>
             </div>
             <div style="width: 30%; padding: 1%;">
             <p align="center">
-                <img src="https://imgtr.ee/images/2023/07/15/27944d522ee57766cab7f761b43445ec.jpeg" style="width: 100%;">
+                <img src="https://i.postimg.cc/sXhSV0Fb/data-extraction2.png" style="width: 100%;">
             </p>
             </div>
             </div>
@@ -219,7 +220,7 @@ with st.spinner('Loading page...'):
             <p style="text-align:justify">Another option I considered was using images from book atlases and other resources I had accumulated over my years of practice. While these images provided a potential solution, their limited variety and quantity posed challenges for training a robust model.</p>
 
             <p align="center">
-            <img src="https://imgtr.ee/images/2023/07/15/c135b4d7a3bb85f798846883f3729175.jpeg" width="23%">
+            <img src="https://i.postimg.cc/W4WGXkjb/books.png" width="23%">
             </p>
 
             <h2 id="final-idea">Final Idea</h2>
@@ -231,7 +232,7 @@ with st.spinner('Loading page...'):
             <p style="text-align:justify">Despite these efforts, the available data was still limited. To address this challenge, I used data augmentation techniques in Python to generate synthetic images, thereby augmenting the training and validation datasets.</p>
 
             <p align="center">
-            <img src="https://imgtr.ee/images/2023/07/15/30eff73003bba45453f247e497ad7f50.png" width="36%">
+            <img src="https://i.postimg.cc/PJDBQHgK/warthin.png" width="36%">
             <br>
             <small><em>Synthetic Data of a Warthin Tumor, generated by Keras using ImageDataGenerator.</em></small>
             </p>
@@ -302,7 +303,7 @@ with st.spinner('Loading page...'):
             Convolutional layer of the network, where the image pre-processing happens and the kernel filter the image on the whole image, detecting lines and edges. '32', '64', '128' refers to the number of filters used, starting from a small number. 'Relu' activation adds non-linearity to the model, to learn more complex patterns.
             ''')
 
-            st.markdown('<p align="center"><img src="https://imgtr.ee/images/2023/07/16/2ec21fb98202f4f49aacede568160fef.webp" width="36%"></p>', unsafe_allow_html=True)
+            st.markdown('<p align="center"><img src="https://i.postimg.cc/KjMcCdMs/cytology-codex-final-6.png" width="36%"></p>', unsafe_allow_html=True)
 
             st.subheader('MaxPooling2D Layer')
 
@@ -310,7 +311,7 @@ with st.spinner('Loading page...'):
             It performs downsampling operations, and also spatial dimensions (width, height), reducing overfitting and the computational cost by decreasing the spatial dimensionality. This process goes along with the convolutional layer, with different kernel sizes, to learn more complex patterns from Data.
             ''')
 
-            st.markdown('<p align="center"><img src="https://imgtr.ee/images/2023/07/16/2de962eb5ef3e02f776e63be21794789.png" width="36%"></p>', unsafe_allow_html=True)
+            st.markdown('<p align="center"><img src="https://i.postimg.cc/J4jj9hjm/cytology-codex-final-7.png" width="36%"></p>', unsafe_allow_html=True)
 
             st.subheader('Flatten Layer')
 
@@ -318,7 +319,7 @@ with st.spinner('Loading page...'):
             It prepares the multi-dimensional input for the last fully and dense layer, converting the 2D matrix to a 1D vector.
             ''')
 
-            st.markdown('<p align="center"><img src="https://imgtr.ee/images/2023/07/16/09a1974ed212b1bdfaab538a6585d8ca.png" width="36%"></p>', unsafe_allow_html=True)
+            st.markdown('<p align="center"><img src="https://i.postimg.cc/Wb7hGqMD/cytology-codex-final-8.png" width="36%"></p>', unsafe_allow_html=True)
 
             st.subheader('Dense Layer')
 
@@ -326,7 +327,7 @@ with st.spinner('Loading page...'):
             It takes the Flatten inputs through a series of neurons. First 512, then 256. It's where all previous neurons are fully connected, the 'softmax' activation it's used in multi-classification models, in this case, '5' corresponds to the number of target classes.
             ''')
 
-            st.markdown('<p align="center"><img src="https://imgtr.ee/images/2023/07/16/1c1817cf8b06c0dbb8433e6d95357ad5.png" width="36%"></p>', unsafe_allow_html=True)
+            st.markdown('<p align="center"><img src="https://i.postimg.cc/jS5dygx9/cytology-codex-final-9.png" width="36%"></p>', unsafe_allow_html=True)
 
             st.markdown('''
             In short, this CNN model learns hierarchical representations of the images, from low-level structures (lines, edges, textures) in the initial layers to more complex high-level features such as patterns and objects.
