@@ -25,7 +25,7 @@
 <p style="text-align:justify">Another option I considered was using images from book atlases and other resources I had accumulated over my years of practice. While these images provided a potential solution, their limited variety and quantity posed challenges for training a robust model.</p>
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/15/c135b4d7a3bb85f798846883f3729175.jpeg" width="26%">
+  <img src="https://i.postimg.cc/W4WGXkjb/books.png" width="26%">
 </p>
 
 <h2 id="final-idea">Final Idea</h2>
