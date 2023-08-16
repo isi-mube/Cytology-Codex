@@ -1,5 +1,5 @@
 # Replace API KEY with your API-KEY
-# Replace app_without_API name to app
+# Replace app_without_API name to appe
 
 # Create the envoriment
 conda activate streamlit-env
