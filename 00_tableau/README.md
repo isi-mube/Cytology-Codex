@@ -7,5 +7,5 @@
 * [Validation Salivary Gland Data Augmentation](https://public.tableau.com/app/profile/isidre.munne.bertran/viz/validation_da_awesome_graphs/ValidationDA?publish=yes)
 
 <p align="center">
-  <img src="https://i.postimg.cc/Vkc285TF/barplot.png" width="86%">
+  <img src="https://i.postimg.cc/Vkc285TF/barplot.png" width="66%">
 </p>
