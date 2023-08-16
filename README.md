@@ -2,7 +2,7 @@
 ### The Digital Tome of Cytology: Deep Learning & Neural Networks Transmutation
 
 <p align="center">
-  <img src="https://imgtr.ee/images/2023/07/14/b1deb27bdd471bb2b8fc5374d9d9cca5.png" width="36%">
+  <img src="https://i.postimg.cc/52KSn9Yb/cytology-codex-final.png" width="36%">
   <br>
   <small><em>Behold, the Digital Tome of Cytology, revealing  microscopic marvels and cellular untold tales.</em></small>
 </p>
