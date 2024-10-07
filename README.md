@@ -1,32 +1,25 @@
 # Cytology Codex
-### The Digital Tome of Cytology: Deep Learning & Neural Networks Transmutation
-
-<p align="center">
-  <img src="https://i.postimg.cc/0NJXSKtL/cytology-codex-final.png" width="36%">
-  <br>
-  <small><em>Behold, the Digital Tome of Cytology, revealing  microscopic marvels and cellular untold tales.</em></small>
-</p>
 
 <ol>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland'>Chapter I:</a> Salivary gland specimens:
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland'>Salivary gland specimens::</a>
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
     </ul>
   </li>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological'>Chapter II:</a> Gynecological specimens:
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological'>Gynecological specimens:</a>
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
     </ul>
   </li>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid'>Chapter III:</a> Thyroid specimens:
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid'>Thyroid specimens:</a>
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
     </ul>
   </li>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen'>Chapter IV:</a> Effussions specimens:
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen'>Effussions specimens:</a>
     <ul>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
       <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
@@ -45,7 +38,7 @@ Primary Objective:
 Secondary Objectives:
 <ul>
   <li>Implement a web-based application using Streamlit that enables users to predict diagnoses based on their image-inputs.</li>
-  <li>Provide informative feedback on the image features using ChatGPT API.</li>
+  <li>Provide informative feedback on the image features using OpenAI API.</li>
 </ul>
 
 Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells-at-work)
@@ -77,10 +70,6 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
 
 ## Results and Conclusions
 
-<p align="center">
-  <img src="https://i.postimg.cc/zvkVnDCK/microfinal.png" width="36%">
-</p>
-    
 <ol>
     <li>The convolutional neural network (CNN) model demonstrated excellent accuracy in the multiple-multiclass classification of cytology images, with a performance metric of approximately 90-95% accuracy around the 20-25 epoch mark.</li>
     <li>The challenge of the lack of available Data was addressed through the synthetic generation of new cytology images, an approach known as data augmentation. This technique was crucial for minimizing false negatives across all diagnostic categories.</li>
@@ -100,29 +89,21 @@ For specific metric results, please refer to the specific Python folder:
 
 ## Toolkit:
 
-* **JupyterLab**: Enviorment for Python scripts and managing files. AKA, as if VSCode and JupyterNotebook had a kid.
+* **JupyterLab**
 
 **Libraries**
-
-📚 Basic Libraries
 * **Pandas**: Data manipulation and analysis.
 * **Numpy**: Arrays and mathematical functions, allowing it to read images.
 * **Os**: File managment.
 * **Matplotlib**: 2D Data visualization.
 * **Seaborn**: Runs on top of matplotlib, HD data visualization.
 * **PIL:** Python Imaging Library to manipulate images.
-
-🛠️ Tools
 * **Warnings**: Roses are red, violets are blue --> Warnings are annoying.
 * **Shutil**: File operations (copying, deleting...).
 * **Random:** To generate random subsets of data.
-
-🌐 Computer Vision
 * **TensorFlow:** Machine Learning for Computer Vision.
 * **Keras:** High-level neural networks API for Deep Learning, running on top of TensorFlow.
 * **ImageDataGenerator:** To generate random data augmentation (flips, zoom...).
-
-📈 Metrics and Reports
 * **Sklearn:** Machine Learning metrics.
 * **Confusion Matrix:** To evaluate true and false positives and negatives.
 * **Confusion Matrix Display:** To easily display the matrix.
@@ -143,12 +124,10 @@ For specific metric results, please refer to the specific Python folder:
 ## Acknowledgments:
 
 * [Xisca](https://www.linkedin.com/in/xisca-sorell-llull-39128949/): Endless source of wisdom and inspiration. Your faith in me pushed my boundaries, driving me beyond what I believed was possible to accomplish.
-* [Sabina](https://www.linkedin.com/in/sabina-firtala/): Your [knowledge ](https://github.com/sabinagio/do-you-see-what-AI-see) on Computer Vision sparked my curiosity.
-* [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/): For your emotional support during the bootcamp and amazing coding-feedbacks.
-* [Camille](https://www.linkedin.com/in/camillecoeurjoly/): Your sharp eyes and Python tricks helped my learning.
+* [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/), [Sabina](https://www.linkedin.com/in/sabina-firtala/) & [Camille](https://www.linkedin.com/in/camillecoeurjoly/): For your support during the bootcamp and amazing coding-feedbacks.
 * [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): Simply, my life saver.
 * My classmates. Specially:
   *  [Nicole](https://github.com/tzeyeenliew), you help me go through dark times !
-  *  [Nati](https://github.com/natnaelfe), your moral support has been a godsend.
+  *  [Nati](https://github.com/natnaelfe), your moral support and good energy.
   *  [Luis](https://github.com/lj90pot), Luisi forever. You are a constant motivation to excel (pun intended).
   *  [Evangelos](https://github.com/Evangelos-Z) [...] time is an illusion that helps things make sense, so we're always living in the present tense...
