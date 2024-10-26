@@ -1,38 +1,12 @@
-# Cytology Codex
-
-<ol>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland'>Salivary gland specimens::</a>
-    <ul>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
-    </ul>
-  </li>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological'>Gynecological specimens:</a>
-    <ul>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
-    </ul>
-  </li>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid'>Thyroid specimens:</a>
-    <ul>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
-    </ul>
-  </li>
-  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen'>Effussions specimens:</a>
-    <ul>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
-      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
-    </ul>
-  </li>
-</ol>
+Published in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1) - Oct 2023
 
 ## About the Project
-This project started on `08/07/2023` and was completed within 3 weeks, presented on `27/07/2023` for Ironhack´s final bootcamp project. 
+This project started on `08/07/2023` and was completed within 3 weeks.
 
-Primary Objective:
+Primary Objectives:
 <ul>
   <li>Develop multiple-multiclass classification models capable of diagnosing cytological image samples from diverse locations, including salivary glands, gynecological, thyroid and effussions.</li>
+  <li>Develop an AI algorithm using single-layer cytological slide scans challenging the need for full slide multi-layer scanning with z-stack, a process that is both costly and time-consuming.</li>
 </ul>
 
 Secondary Objectives:
@@ -40,8 +14,6 @@ Secondary Objectives:
   <li>Implement a web-based application using Streamlit that enables users to predict diagnoses based on their image-inputs.</li>
   <li>Provide informative feedback on the image features using OpenAI API.</li>
 </ul>
-
-Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells-at-work)
 
 ## About Cytology
 ### Glossary
@@ -80,6 +52,33 @@ Agile methodology and roadmap --> [click me](https://trello.com/b/gm7sl9gX/cells
   <img src="https://s11.gifyu.com/images/ScntV.gif"/>
 </div>
 
+<ol>
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland'>Salivary gland specimens::</a>
+    <ul>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/01_salivary_gland/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+    </ul>
+  </li>
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/02_gynecological'>Gynecological specimens:</a>
+    <ul>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/02_gynecological/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+    </ul>
+  </li>
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid'>Thyroid specimens:</a>
+    <ul>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/03_thyroid/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+    </ul>
+  </li>
+  <li><a href='https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen'>Effussions specimens:</a>
+    <ul>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/01_data_wrangling.ipynb">Python script I: Data Extracting, Cleaning and Pre-Processing</a></li>
+      <li><a href="https://github.com/isi-mube/cytology-codex/blob/main/02_py_scripts/04_efussions_wellgen/02_modeling.ipynb">Python script II: Deep Learning Modeling, Validation and Testing</a></li>
+    </ul>
+  </li>
+</ol>
+
 
 For specific metric results, please refer to the specific Python folder:
   * [Salivary Gland results](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/01_salivary_gland)
@@ -87,11 +86,11 @@ For specific metric results, please refer to the specific Python folder:
   * [Thyroid](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/03_thyroid)
   * [Effussions (WellGen)](https://github.com/isi-mube/cytology-codex/tree/main/02_py_scripts/04_efussions_wellgen)
 
-## Toolkit:
+## About the Data:
 
-* **JupyterLab**
+[Data info](https://github.com/isi-mube/Cytology-Codex/edit/main/01_data/README.md)
 
-**Libraries**
+## Libraries:
 * **Pandas**: Data manipulation and analysis.
 * **Numpy**: Arrays and mathematical functions, allowing it to read images.
 * **Os**: File managment.
