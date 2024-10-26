@@ -120,14 +120,3 @@ For specific metric results, please refer to the specific Python folder:
 * Different Types of CNN Architectures Explained - Examples. Vitalflux. Retrieved from https://vitalflux.com/different-types-of-cnn-architectures-explained-examples/
 * CNN Architecture. InterviewBit. Retrieved from https://www.interviewbit.com/blog/cnn-architecture/
 * Convolutional Neural Networks (CNN) Architectures Explained. Medium. Retrieved from https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243
-
-## Acknowledgments:
-
-* [Xisca](https://www.linkedin.com/in/xisca-sorell-llull-39128949/): Endless source of wisdom and inspiration. Your faith in me pushed my boundaries, driving me beyond what I believed was possible to accomplish.
-* [Laz](https://www.linkedin.com/in/lazarus-kon-27549880/), [Sabina](https://www.linkedin.com/in/sabina-firtala/) & [Camille](https://www.linkedin.com/in/camillecoeurjoly/): For your support during the bootcamp and amazing coding-feedbacks.
-* [Xose](https://www.linkedin.com/in/xose-fern%C3%A1ndez-5a8064a3/): Simply, my life saver.
-* My classmates. Specially:
-  *  [Nicole](https://github.com/tzeyeenliew), you help me go through dark times !
-  *  [Nati](https://github.com/natnaelfe), your moral support and good energy.
-  *  [Luis](https://github.com/lj90pot), Luisi forever. You are a constant motivation to excel (pun intended).
-  *  [Evangelos](https://github.com/Evangelos-Z) [...] time is an illusion that helps things make sense, so we're always living in the present tense...
